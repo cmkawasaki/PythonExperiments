@@ -1,0 +1,74 @@
+Mystical Weapon [Weapon]
+Minor (Lv 5) +1 DC 15 Epic (Lv 21) +4 DC 41
+Superior (Lv 10) +2 DC 25 Legendary (Lv 26) +5 DC 49
+Greater (Lv 15) +3 DC 35
+Item Slot: Weapon (any)
+Enhancement: Attack rolls and damage rolls
+Special: Projectile weapons bestow the enhancement bonus to their ammunition.
+
+Tidal Force [Weapon]
+Minor (Lv 3) DC 13 Greater (Lv 13) DC 33
+Superior (Lv 7) DC 22 Epic (Lv 20) DC 40
+Item Slot: Weapon (any)
+Power (At-Will—Water, free action): Half of the damage dealt by the weapon is water
+damage. Another free action returns the damage to normal.
+Power (1/encounter—Water, free action): Level 13 or 20: Perform Suiton Ninjutsu
+ignoring the material focus component. Lasts 3 rounds.
+Power (At-Will—Water, attack action): Level 7: 4 chakra. Deal an extra 1d6 water
+damage. Lasts 1 minute.
+Level 13: 6 chakra. 1d10 water damage.
+Level 20: 10 chakra. 2d6 water damage.
+Special: Projectile weapons grant this bonus to their ammunitions.
+
+Venomous [Weapon]
+Greater (Lv 14) DC 34
+Item Slot: Weapon (melee only)
+Power (3/encounter—Poison, free action): Chakra cost varies. Use before attacking.
+The weapon is coated with one dose of poison the wielder crafted once previously.
+Chakra cost is half the poison's saving throw DC. Poison lasts 1 minute or 1 successful
+attack.
+
+Changing [Armor]
+Minor (Lv 5) DC 15 Greater (Lv 12) DC 32
+Superior (Lv 7) DC 22
+Item Slot: Armor (special)
+Power (At-Will, full-round action): The light armor shifts to become mundane clothing.
+If the armor it was applied to included more than one piece (such as boots, pants,
+gauntlets, etc.) the garment it becomes can include additional articles. The weight of the
+original item remains unchanged. Both forms benefit from enhancement seals.
+Level 7: Can be applied to medium armor.
+Level 12: Can be applied to heavy armor.
+Special: The secondary form is selected when creating the seal.
+
+Unyielding [Weapon]
+Superior (Lv 8) +1 DC 23 Greater (Lv 12) +2 DC 32
+Item Slot: Weapon (any melee)
+Enhancement: Damage rolls
+Power (At-Will, attack action): 2 chakra. Weapon gains 10 hardness and 15 hit points.
+Lasts 10 minutes.
+Level 12: 20 hardness, 30 hit points.
+
+Expert's Holster [Sealed Item]
+This simple leather shuriken holster is designed specifically for shuriken expert who use
+chakra blades.
+Sealed Item
+Minor (Lv 5) +1 DC 16 Greater (Lv 15) +3 DC 38
+Superior (Lv 10) +2 DC 27
+Enhancement: Sleight of Hand checks to conceal a weapon
+Property: Acts as a shuriken holster.
+Apply enhancement bonus as attack and weapon damage bonus to any charged thorium or
+ironium weapon drawn from the holster.
+Power (At-Will, attack action): Recharge up to 15 weapons in the holster. Charged
+weapons retain their charge for up to 1 round after they are drawn.
+Special: This item can be a shuriken holster or a large shuriken holster, but no more than
+15 weapons can be charged at once.
+
+Exploding Kunai [Sealed Item, Weapon]
+This kunai appears mundane but can be turned into a deadly explosive.
+Sealed Item (kunai)
+Minor (Lv 3) DC 14
+Power (At-Will, attack action): 2 chakra. Charge the kunai with explosive power. The
+kunai explodes in a 10-ft. radius burst when it strikes an enemy or hard object, dealing
+4d6 points of fire damage (Reflex save DC 15 halves).
+The enemy target suffers a –4 penalty to the saving throw if the exploding kunai hits with
+a successful thrown attack. The exploding kunai is destroyed after exploding.
