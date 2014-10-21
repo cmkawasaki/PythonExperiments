@@ -1,0 +1,94 @@
+#This was written for Python 2.7
+import re # Regular Expression Handler
+
+class SealedItem(object):
+	def __init__(self, sealedItemBlock):
+		titleBlockPattern = re.compile(r'(?P<Title>.*)\[(?P<Type>.*)\]\n')
+		titleMatch = titleBlockPattern.search(sealedItemBlock)
+		levelMatchPattern = re.compile(r'(?P<Type>Minor|Superior|Greater|Epic|Legendary) \(Lv (?P<Level>\d+)\)')
+		self.RequiredFeats = []
+		if titleMatch == None:
+			print "No Title Section found.  Aborting."
+			return
+		self.Title = titleMatch.group('Title').strip(' \t\n\r')
+		print "%r" % titleMatch.group('Type')
+		if 'Sealed Item' in titleMatch.group('Type'):
+			self.Type = "Sealed Item"
+			self.RequiredFeats.append('Craft Sealed Items (f)')
+			if 'Armor' in titleMatch.group('Type'):
+				self.RequiredFeats.append('Craft Armor Seals (f)')
+			elif 'Weapon' in titleMatch.group('Type'):
+				self.RequiredFeats.append('Craft Weapon Seals (f)')
+		elif 'Armor' in titleMatch.group('Type'):
+			self.Type = "Armor"
+			self.RequiredFeats.append('Craft Armor Seals (f)')
+		else:
+			self.Type = "Weapon"
+			self.RequiredFeats.append('Craft Weapon Seals (f)')
+
+		self.LevelPatternDictionary = {'Minor':-1, 'Superior':-1, 'Greater':-1,'Epic':-1,'Legendary':-1}
+
+		levelMatches = levelMatchPattern.findall(sealedItemBlock)
+		if levelMatches == None:
+			print "No Item levels found.  Aborting."
+			return
+		for levelMatch in levelMatches:
+			self.LevelPatternDictionary[levelMatch[0]] = int(levelMatch[1])
+
+	def GenerateTitle(self, item):
+		if self.Type == 'Sealed Item':
+			return 'Craft ' + SealedItemEnum[item] + ' ' + self.Title
+		else:
+			return 'Craft ' + SealedItemEnum[item] + ' ' + self.Title + ' ' + self.Type
+
+	def GenerateItem(self, item, previousItem):
+		#Create Item Statblock Here
+		number = self.LevelPatternDictionary[SealedItemEnum[item]]
+		if self.Type == 'Sealed Item':
+			title = 'Craft ' + SealedItemEnum[item] + ' ' + self.Title
+			itemTitle = SealedItemEnum[item] + ' ' + self.Title
+			price = SealedItemPriceList[number]
+		else:
+			title = 'Craft ' + SealedItemEnum[item] + ' ' + self.Title + ' ' + self.Type
+			itemTitle = SealedItemEnum[item] + ' ' + self.Title + ' ' + self.Type + ' Seal'
+			price = ArmorWeaponPriceList[number]
+
+		rank = (number % 2) + (number / 2) + 3
+		jutsuClass = JutsuRankEnum[item]
+		#Learn DC Modifier is the Enum +3
+		learnDC = 10 + rank + item + 3
+		#Success Count is the Enum +3 for hijutsus
+		successesNeeded = item + 3
+		skillRanksNeeded = number + 3
+
+		requireString = 'Training (Varies; requires '
+		bit = False
+		if previousItem != None:
+			requireString += previousItem + ' (3)'
+			bit = True
+			
+		for feat in self.RequiredFeats:
+			if bit == True:
+				requireString += ' and '
+			requireString += feat
+			bit = True
+			
+		if number >= 20:
+			requireString += ' and Craft Epic Seals (f)'
+
+		requireString += ' and Craft(calligraphy) or Fuinjutsu %d ranks) [Lost Hijutsu]' % skillRanksNeeded
+
+		completedItem = (title, requireString, rank, jutsuClass, learnDC, successesNeeded, itemTitle, price)
+
+		return completedItem	
+
+
+SealedItemEnum = ['Minor', 'Superior', 'Greater', 'Epic', 'Legendary']
+JutsuRankEnum = ['C-Rank', 'B-Rank', 'A-Rank', 'S-Rank', 'Super S-Rank']
+
+ArmorWeaponPriceList = [1200, 1600, 2000, 2800, 3800, 5200, 7200, 10000, 14000, 19000, 26000, 38000, 50000, 70000,
+		95000, 130000, 185000, 250000, 350000, 475000, 650000, 900000, 1250000, 1750000, 2500000, 3250000,
+		4500000, 6250000, 8500000, 12000000, 16500000, 22650000, 31250000]
+SealedItemPriceList = [2000, 2800, 3800, 5200, 7200, 10000, 14000, 19000, 26000, 38000, 50000, 70000,
+		95000, 130000, 185000, 250000, 350000, 475000, 650000, 900000, 1250000, 1750000, 2500000, 3250000,
+		4500000, 6250000, 8500000, 12000000, 16500000, 22650000, 31250000, 42100000, 60000000]

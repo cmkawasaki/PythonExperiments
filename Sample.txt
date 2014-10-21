@@ -1,0 +1,24 @@
+Mystical Weapon [Weapon]
+Minor (Lv 5) +1 DC 15 Epic (Lv 21) +4 DC 41
+Superior (Lv 10) +2 DC 25 Legendary (Lv 26) +5 DC 49
+Greater (Lv 15) +3 DC 35
+Item Slot: Weapon (any)
+Enhancement: Attack rolls and damage rolls
+Special: Projectile weapons bestow the enhancement bonus to their ammunition.
+
+Mind Ward [Armor]
+Minor (Lv 3) +1 DC 13 Greater (Lv 14) +3 DC 34
+Superior (Lv 8) +2 DC 23 Epic (Lv 20) +4 DC 40
+Item Slot: Head or ear
+Enhancement: Will saves against compulsion, enchantment and mind-affecting
+(resistance)
+
+Field Pack [Sealed Item]
+This belt pouch appears ordinary, but is empowered with hybrid container seals that
+allow it to contain much more than it normally would.
+Sealed Item
+Superior (Lv 10) DC 27
+Property: This reinforced belt pouch can hold up to 50 pounds of material, or up to 5
+cubic feet in volume, but always weighs 5 pounds.
+
+

@@ -1,0 +1,2318 @@
+Chakra Armor [Armor]
+Minor (Lv 6) DC 16 Greater (Lv 16) DC 36
+Superior (Lv 11) DC 26
+Item Slot: Armor
+Property: Damage reduction 1/chakra.
+Level 11: Damage reduction 3/chakra.
+Level 16: Damage reduction 5/chakra.
+
+Chakra Resistance [Armor]
+Minor (Lv 6) DC 16 Epic (Lv 21) DC 42
+Superior (Lv 11) DC 26 Legendary (Lv 31) DC 57
+Greater (Lv 16) DC 36
+Item Slot: Ear or finger
+Power (3/day, swift action): 1 chakra. Gain chakra resistance 13 for 1 round.
+Level 11: 2 chakra. As above but gain chakra resistance 16.
+Level 16: 3 chakra. As above but gain chakra resistance 19.
+Level 21: 4 chakra. As above but gain chakra resistance 24.
+Level 31: 5 chakra. As above but gain chakra resistance 32.
+
+Changing [Armor]
+Minor (Lv 5) DC 15 Greater (Lv 12) DC 32
+Superior (Lv 7) DC 22
+Item Slot: Armor (special)
+Power (At-Will, full-round action): The light armor shifts to become mundane clothing.
+If the armor it was applied to included more than one piece (such as boots, pants,
+gauntlets, etc.) the garment it becomes can include additional articles. The weight of the
+original item remains unchanged. Both forms benefit from enhancement seals.
+Level 7: Can be applied to medium armor.
+Level 12: Can be applied to heavy armor.
+Special: The secondary form is selected when creating the seal.
+
+Concealing [Armor]
+Minor (Lv 5) DC 15 Superior (Lv 10) DC 25
+Item Slot: Back
+Power (At-Will, attack action): As Kakureimino no Jutsu, but functions in all settings.
+Power (3/day, attack action): Level 10: 3 chakra. As Meisaigakure no Jutsu. Lasts 5
+minutes.
+
+Doujutsu Inhibitor [Armor]
+Superior (Lv 7) DC 22 Greater (Lv 16) DC 36
+Item Slot: Head
+Property: Your doujutsu bloodline is suppressed. The doujutsu inhibitor must be taken
+off or moved away from the eye before activating the bloodline.
+Power (1/day, swift action): Level 16: Activate a Doujutsu bloodline as a swift action.
+
+Elemental Resistance [Armor]
+Minor (Lv 4) DC 14 Greater (Lv 14) DC 34
+Superior (Lv 9) DC 24 Epic (Lv 23) DC 44
+Item Slot: Ear, finger or neck
+Power (1/day, attack action): 3 chakra. Gain 5 resistance to cold, earth, electricity, fire,
+water or wind (choose one when creating the seal). Absorbs up to 50 damage.
+Level 9: 5 chakra. Gain resistance 10; absorbs up to 100 damage.
+Level 14: 7 chakra. Gain resistance 15; absorbs up to 150 damage.
+Level 23: 10 chakra. Gain resistance 20; absorbs up to 200 damage.
+
+Eluding [Armor]
+Superior (Lv 8) +1 DC 23 Greater (Lv 14) +2 DC 34
+Item Slot: Back or Feet
+Enhancement: Reflex saves (resistance)
+Featherweight [Armor]
+Superior (Lv 7) DC 22
+Item Slot: Armor (medium or heavy)
+Property: Armor treated as though one category lighter (medium to light, heavy to
+medium.)
+The armor's armor check penalty is reduced by 2 and its maximum Dexterity bonus
+increased by 2. Proficiency in the original armor type is still required.
+Property: Armor weight halved (round up, minimum 1 lb.)
+
+Flickering [Armor]
+Superior (Lv 10) DC 25 Greater (Lv 15) DC 35
+Item Slot: Back
+Power (2/day—Teleportation, move action): Teleport up to 30 feet as per supernatural
+ability.
+Level 15: As above, but up to 60 feet.
+
+Fragmentation [Armor]
+Greater (Lv 18) DC 38
+Item Slot: Armor
+Power (2/day, move action): Move up to your movement speed and split into a swarm of
+fine objects during the action.
+Wearer is immune to attacks that target a single creature during the fragmentation and
+gains a +10 bonus to Move Silently checks. He automatically breaks any grapple or pin at
+the start of the movement.
+
+Gliding [Armor]
+Minor (Lv 5) +2 DC 15 Greater (Lv 14) +6 DC 34
+Superior (Lv 9) +4 DC 24
+Item Slot: Back
+Enhancement: Jump checks
+Power (3/day, instant action): Use when falling. The wearer can glide up to his base
+movement speed on his next action or slow his fall to 10 feet per round, effectively
+gaining a fly speed with clumsy maneuverability. Lasts 1 round.
+Level 9: As above, but the wearer's fly speed increases by 10 feet.
+Level 14: As above, but the wearer's fly speed increases by 30 feet.
+
+Mind Ward [Armor]
+Minor (Lv 3) +1 DC 13 Greater (Lv 14) +3 DC 34
+Superior (Lv 8) +2 DC 23 Epic (Lv 20) +4 DC 40
+Item Slot: Head or ear
+Enhancement: Will saves against compulsion, enchantment and mind-affecting
+(resistance)
+
+Monitoring [Armor]
+Superior (Lv 7) DC 22
+Item Slot: Finger
+Power (At-Will—Medical, free action): Use to gain information about the condition of
+the wearer of every linked ring, as per Iryou Ninjutsu: Iji - Shinryou Jutsu. If the wearer
+of a ring is killed or the ring is taken off, the ring simply becomes inactive, but no further
+information is provided. This ability has a range of 100 miles.
+Special: Sealed item cannot be removed by anyone other than the user, unless the limb is
+severed.
+Multiple rings must be linked together. Linking multiple rings together takes 30 minutes,
+and cannot be undone.
+
+Mystical Armor [Armor]
+Minor (Lv 4) +1 DC 14 Epic (Lv 21) +4 DC 42
+Superior (Lv 8) +2 DC 23 Legendary (Lv 26) +5 DC 49
+Greater (Lv 12) +3 DC 32
+Item Slot: Armor
+Enhancement: Defense
+
+Negation [Armor]
+Superior (Lv 7) DC 22
+Item Slot: Neck or waist
+Property: Negates the chakra aura of all carried enhancement seals and sealed items.
+
+Nullstep [Armor]
+Superior (Lv 7) +1 DC 22 Epic (Lv 21) +3 DC 41
+Greater (Lv 13) +2 DC 33
+Item Slot: Feet
+Enhancement: Move Silently checks (competence)
+Property: Increases the difficulty class of Survival checks to track the wearer by 5. The
+wearer does not count towards the number of creatures when tracking a group.
+Power (At-Will, full-round action): 4 chakra. As Mukidou Sanpo no Jutsu, use the
+seal's level to determine the bonus. Lasts 10 minutes.
+
+Power [Armor]
+Minor (Lv 4) +1 DC 14 Greater (Lv 12) +3 DC 32
+Superior (Lv 8) +2 DC 23
+Item Slot: Waist
+Enhancement: Strength checks, Climb, Jump and Swim skills (competence)
+Power (1/day, free action): 1 chakra. You gain a +1 bonus to melee weapon damage
+rolls for 1 round.
+Level 12: 3 chakra. +2 bonus.
+
+Powerlift [Armor]
+Minor (Lv 6) +1 DC 16 Superior (Lv 11) +2 DC 26
+Item Slot: Waist or wrist
+Enhancement: Strength checks
+Property: Wearer's carrying capacity increases by x1.25 (+25%).
+Level 11: As above, but by x1.5 (+50%).
+
+Precision [Armor]
+Minor (Lv 4) +1 DC 14 Greater (Lv 12) +3 DC 32
+Superior (Lv 8) +2 DC 23
+Item Slot: Wrist
+Enhancement: Dexterity checks, Balance, Sleight of Hands, Tumble skill (competence)
+Power (1/day, free action): 1 chakra. You gain a +1 bonus to ranged weapon damage
+rolls for 1 round.
+Level 12: 3 chakra. +2 bonus.
+
+Resilient [Armor]
+Superior (Lv 8) +1 DC 23 Greater (Lv 14) +2 DC 34
+Item Slot: Back or Waist
+Enhancement: Fortitude saves (resistance)
+
+Restoration [Armor]
+Superior (Lv 9) DC 24 Greater (Lv 15) DC 35
+Item Slot: Ear
+Power (3/day—Medical, attack action): 5 chakra. Gain fast healing 3 for 3 rounds.
+Level 15: 9 chakra. Fast healing 4 for 4 rounds.
+
+Restraining [Armor]
+Minor (Lv 4) DC 14 Greater (Lv 12) DC 32
+Superior (Lv 8) DC 23 Epic (Lv 21) DC 41
+Item Slot: Wrist
+Property: Wearer takes a -1 penalty to Speed and Strength ranks.
+Level 8: As above, but penalty is -2.
+Level 12: As above, but penalty is -3.
+Level 21: As above, but penalty is -5.
+
+Surefooted [Armor]
+Minor (Lv 3) +1 DC 13 Greater (Lv 14) +3 DC 34
+Superior (Lv 8) +2 DC 23 Epic (Lv 20) +4 DC 40
+Item Slot: Feet
+Enhancement: Strength checks to defend against bull-rush and overrun
+Power (2/day, attack action): Level 8: Walk on liquids, vertical surfaces and snow as
+though under the effect of Kinobori, Tadayou and Yukigutsu. Lasts 10 minutes.
+Level 14: As above, but lasts 30 minutes.
+Level 21: As above, but lasts 1 hour.
+
+Speed [Armor]
+Superior (Lv 10) DC 25 Greater (Lv 16) DC 36
+Item Slot: Feet or Wrist
+Property: Reduces the effective cost of speed rank by 1 step (minimum 1).
+Power (1/day, swift action): Level 16: Gain a +1 bonus to speed rank for 2 rounds.
+
+Strength [Armor]
+Superior (Lv 10) DC 25 Greater (Lv 16) DC 36
+Item Slot: Back or Wrist
+Property: Reduces the effective cost of strength rank by 1 step (minimum 1).
+Power (1/day, swift action): Level 16: Gain a +1 bonus to strength rank for 2 rounds.
+
+Swift [Armor]
+Minor (Lv 4) DC 14 Greater (Lv 12) DC 32
+Superior (Lv 8) DC 23
+Item Slot: Feet
+Property: Land movement speed increases by 10 feet.
+Level 8: Land movement speed increases by 20 feet.
+Level 12: Land movement speed increases by 30 feet.
+Power (1/day—Teleportation, move action): Level 12: Move to any square within 200
+feet as per teleport extraordinary ability. Must have line of sight and line of effect to the
+square.
+
+Void [Armor]
+Superior (Lv 7) +1 DC 22 Epic (Lv 21) +3 DC 41
+Greater (Lv 13) +2 DC 33
+Item Slot: Armor or Back
+Enhancement: Hide checks (competence)
+Property: Lowers your chakra signature by 1 step.
+Level 13: Lowers your chakra signature by 2 steps.
+Level 21: Lowers your chakra signature to suppressed.
+
+Weapon Storing [Armor]
+Minor (Lv 3) DC 13 Greater (Lv 12) DC 32
+Superior (Lv 7) DC 22 Epic (Lv 21) DC 41
+Item Slot: Back or wrist
+Power (At-Will, free action): Draw any weapon stored in the seal into your hand.
+Power (At-Will, move action): Store an unattended weapon into the seal by touching it.
+The seal can contain 1 large, 2 medium, or 4 small or 8 tiny weapons.
+Level 7: As above, but the seal holds 1 huge, 2 large, 4 medium, 8 small or 16 tiny
+weapons.
+Level 12: As above, but the seal holds 2 huge, 4 large, 8 medium, 16 small or 32 tiny
+weapons.
+Level 21: As above, but the seal holds 3 huge, 6 large, 12 medium, 24 small or 48 tiny
+weapons.
+
+Ashen [Weapon]
+Minor (Lv 3) DC 13 Greater (Lv 12) DC 32
+Superior (Lv 7) DC 22
+Item Slot: Weapon (any)
+Power (At-Will—Fire, attack action): 2 chakra. Fills an adjacent
+5-ft. square with ash, as per Haisekishou technique (Save DC 15).
+Level 6: 4 chakra. Fills a 10-ft. square (Save DC 17).
+Level 12: 6 chakra. Fills a 20-ft. square (Save DC 19).
+
+Acid Burst [Weapon]
+Superior (Lv 8) DC 23 Epic (Lv 22) DC 43
+Greater (Lv 14) DC 34
+Item Slot: Weapon (any)
+Power (At-Will—Acid, free action): Half of the damage dealt by
+the weapon is acid damage. Another free action returns the damage
+to normal.
+Power (At-Will—Acid, attack action): Level 14: 4 chakra. Deal
+an extra 1d6 acid damage. Lasts 1 minute.
+Level 22: 6 chakra. 1d10 acid damage.
+Special: Projectile weapons grant this bonus to their ammunitions.
+
+Armor Piercing [Weapon]
+Superior (Lv 7) +1 DC 23 Epic (Lv 21) +3 DC 41
+Greater (Lv 14) +2 DC 34
+Item Slot: Weapon (any)
+Enhancement: Attack and damage rolls
+Property: Gain a +2 circumstance bonus to attack rolls against
+armored targets or targets with a natural armor bonus to Defense,
+and attacks ignore 5 hardness.
+Level 14: As above, but attacks ignore 10 hardness.
+
+Banishing [Weapon]
+Greater (Lv 14) DC 34 Epic (Lv 24) DC 46
+Item Slot: Weapon (any)
+Power (At-Will, attack action): 4 chakra. Attacks with this
+weapon deal double damage to summoned creatures. Lasts 1
+minute.
+Power (1/encounter, free action): Level 21: Attacks against a
+summoned creature force it to make a Fortitude save (DC 26) or be
+banished. Lasts 1 round.
+
+Bloodthirster [Weapon]
+Greater (Lv 12) DC 32 Epic (Lv 20) DC 41
+Item Slot: Weapon (any)
+Power (At-Will 2/round, free action): 1 chakra. Use when you hit with his weapon.
+Deals 1 point of damage each round for 10 rounds. Each use refreshes the duration and
+increases the damage by 1, up to 5.
+Level 21: 2 chakra. Like above, but deals 1d6 extra damage.
+
+Chakra Current [Weapon]
+Superior (Lv 9) +1 DC 24 Epic (Lv 22) +3 DC 43
+Greater (Lv 16) +2 DC 36 Legendary (Lv 28) +4 DC 52
+Item Slot: Melee weapon (any ironium or thorium)
+Enhancement: Attack and damage rolls
+Property: This weapon can be imbued with Ninpou: Chakra Nagashi with elemental
+properties without the required mastery.
+The duration of the technique is increased by 5 minutes or 2 successful attacks.
+Level 16: As above, but imbuing only costs 4 chakra and the duration is increased by 10
+minutes or 4 successful attacks.
+Level 22 or 28: As above, but costs 2 chakra and the technique lasts until cancelled or an
+additional 8 successful attacks.
+Power (1/day—Varies, swift action): Level 16: As Ninpou: Chakra Nagashi on the
+chakra current weapon, lasts 1 minute or until discharged. Uses the wielder's elemental
+affinity.
+
+Chakra Devouring [Weapon]
+Greater (Lv 16) DC 36 Epic (Lv 30) DC 55
+Item Slot: Weapon (any)
+Power (At-Will, free action): Use when taking an attack of opportunity or readied attack
+against someone using a technique or when attacking to disrupt someone using a
+technique taking 1 round or longer. Attack deals no damage, but forces a Concentration
+check (DC 20+technique rank) to avoid the technique being disrupted and losing the
+chakra spent.
+Level 30: Check DC is (DC 25+technique rank) and deals 1d6 chakra damage.
+
+Chilling [Weapon]
+Superior (Lv 7) DC 22 Epic (Lv 21) DC 41
+Greater (Lv 13) DC 33
+Item Slot: Weapon (any)
+Power (At-Will—Cold, free action): Half of the damage dealt by the weapon is cold
+damage. Another free action returns the damage to normal.
+Power (3/day—Cold, free action): Use a Ninjutsu with the cold descriptor without hand
+seals or half seals. One affected target suffers an extra 1d8 cold damage and 1 cold
+damage every round for 3 rounds (does not stack). The perform time is not modified.
+Level 13: 2d8 extra damage and 2 every round.
+Level 21: 3d8 extra damage and 3 every round.
+Special: Projectile weapons bestow the At-Will power to their ammunition.
+
+Cold Burst [Weapon]
+Minor (Lv 3) DC 13 Greater (Lv 13) DC 33
+Superior (Lv 7) DC 22 Epic (Lv 20) DC 40
+Item Slot: Weapon (any)
+Power (At-Will—Cold, free action): Half of the damage dealt by the weapon is cold
+damage. Another free action returns the damage to normal.
+Power (1/encounter—Cold, free action): Level 13: Gain 10 cold resistance for 3
+rounds.
+Level 20: Gain 15 cold resistance for 3 rounds.
+Power (At-Will—Cold, attack action): Level 7: 4 chakra. Deal an extra 1d6 cold
+damage. Lasts 1 minute.
+Level 13: 6 chakra. 1d10 cold damage.
+Level 20: 10 chakra. 2d6 cold damage.
+Special: Projectile weapons grant this bonus to their ammunitions.
+
+Concealing [Weapon]
+Minor (Lv 4) DC 14 Superior (Lv 8) DC 23
+Item Slot: Weapon (any)
+Property: The weapon emanates no chakra from seals.
+Power (1/day, swift action): Level 8: Your chakra signature is fully suppressed for 5
+rounds.
+
+Containment [Weapon]
+Minor (Lv 5) DC 15 Greater (Lv 15) DC 35
+Superior (Lv 10) DC 25 Epic (Lv 20) DC 40
+Item Slot: Weapon (any)
+Power (At-Will, attack action): Use when making a successful attack with this weapon.
+Discharges the stored technique as though it had been performed normally. A technique
+requiring a touch attack automatically hits. Can be used as part of a full-attack action.
+Power (3/day, free action): 1 chakra. You can store a single chakra control, genjutsu or
+ninjutsu technique in the weapon as long as it is performed in 3 rounds of activating this
+seal. The technique must have a perform time of "1 attack action."
+The technique is held for 3 days or until discharged. The technique must be used
+normally to be stored, and can be empowered or affected by meta-chakra feats as normal.
+The seal can contain up to 10 chakra.
+Level 10: 2 chakra. Contain up to 15 chakra.
+Level 15: 3 chakra. Contain up to 20 chakra.
+Level 25: 4 chakra. Contain up to 30 chakra.
+
+Expand [Weapon]
+Minor (Lv 4) DC 14
+Item Slot: Weapon (any)
+Power (At-Will, attack action): 4 chakra. The weapon becomes an oversized weapon.
+Lasts until cancelled (free action).
+
+Earth Shock [Weapon]
+Minor (Lv 3) DC 13 Greater (Lv 13) DC 33
+Superior (Lv 7) DC 22 Epic (Lv 20) DC 40
+Item Slot: Weapon (any)
+Power (At-Will—Earth, free action): Half of the damage dealt by the weapon is earth
+damage. Another free action returns the damage to normal.
+Power (1/encounter—Earth, free action): Level 13 or 20: Perform Doton Ninjutsu with
+the half seals component without making seals. Lasts 3 rounds.
+Power (At-Will—Earth, attack action): Level 7: 4 chakra. Deal an extra 1d6 earth
+damage. Lasts 1 minute.
+Level 13: 6 chakra. 1d10 earth damage.
+Level 20: 10 chakra. 2d6 earth damage.
+Special: Projectile weapons grant this bonus to their ammunitions.
+
+Flame Burst [Weapon]
+Minor (Lv 3) DC 13 Greater (Lv 13) DC 33
+Superior (Lv 7) DC 22 Epic (Lv 20) DC 40
+Item Slot: Weapon (any)
+Power (At-Will—Fire, free action): Half of the damage dealt by the weapon is fire
+damage. Another free action returns the damage to normal.
+Power (1/encounter—Fire, free action): Level 13: All attacks with this weapons are
+touch attacks for 1 round.
+Level 20: As above, gains 5-ft. reach.
+Power (At-Will—Fire, attack action): Level 7: 4 chakra. Deal an extra 1d6 fire damage.
+Lasts 1 minute.
+Level 13: 6 chakra. 1d10 fire damage.
+Level 20: 10 chakra. 2d6 fire damage.
+Special: Projectile weapons grant this bonus to their ammunitions.
+
+Flickering [Weapon]
+Superior (Lv 8) DC 23 Greater (Lv 14) DC 34
+Item Slot: Weapon (melee only)
+Power (3/day, free action): 1 chakra. Attacks with this weapon have a 10% chance to
+deny the target its Dex bonus to Defense. Blind creatures and creatures that do not rely on
+sight are immune. Lasts 1 round.
+Level 14: 2 chakra. As above, but 5/day and 20% chance.
+
+Healing [Weapon]
+Greater (Lv 12) DC 32 Epic (Lv 24) DC 46
+Item Slot: Weapon (melee only)
+Power (5/day—Medical, free action): 2 chakra. Use before making an attack. Attack
+deals no damage but heals for half the damage it would normally deal.
+Level 24: 4 chakra. As above, but heals for weapon damage.
+
+Hurricane Force [Weapon]
+Minor (Lv 3) DC 13 Greater (Lv 13) DC 33
+Superior (Lv 7) DC 22 Epic (Lv 20) DC 40
+Item Slot: Weapon (any)
+Power (At-Will—Wind, free action): Half of the damage dealt by the weapon is wind
+damage. Another free action returns the damage to normal.
+Power (3/encounter—Wind, free action): Level 13: Use after a critical hit. Target
+suffers -1 to attack and weapon damage rolls, skill checks and saving throws for 1 round.
+Level 20: As above, the but the penalty is -2.
+Power (At-Will—Wind, attack action): Level 7: 4 chakra. Deal an extra 1d6 wind
+damage. Lasts 1 minute.
+Level 13: 6 chakra. 1d10 wind damage.
+Level 20: 10 chakra. 2d6 wind damage.
+Special: Projectile weapons grant this bonus to their ammunitions.
+
+Manifesting [Weapon]
+Minor (Lv 5) DC 15 Greater (Lv 13) DC 33
+Superior (Lv 9) DC 24
+Item Slot: Weapon (any)
+Power (3/day—Teleportation, move action): 1 chakra. Summon the weapon into your
+hand no matter where it is. Range 100 feet.
+Level 9: 2 chakra. 500 feet range.
+Level 13: 3 chakra. 1 mile range.
+Special: This seal must be bound to a single creature, which takes 30 minutes and cannot
+be undone.
+
+Murdering [Weapon]
+Greater (Lv 12) DC 32
+Item Slot: Weapon (any)
+Power (3/day, attack action): 6 chakra. Each melee attack applies a mark on the target.
+On a natural roll of 20 against any marked target, the target must make a Fortitude save
+(DC 22) or die. Successful save deals 2d6+10 negative energy damage instead. Lasts 1
+minute or 1 murder attempt.
+
+Mystical Weapon [Weapon]
+Minor (Lv 5) +1 DC 15 Epic (Lv 21) +4 DC 41
+Superior (Lv 10) +2 DC 25 Legendary (Lv 26) +5 DC 49
+Greater (Lv 15) +3 DC 35
+Item Slot: Weapon (any)
+Enhancement: Attack rolls and damage rolls
+Special: Projectile weapons bestow the enhancement bonus to their ammunition.
+
+Mystifying [Weapon]
+Greater (Lv 14) DC 34 Epic (Lv 24) DC 46
+Item Slot: Weapon (any)
+Power (At-Will—Mind-Affecting, attack action): 4 chakra. Creates a body double in
+an adjacent square or your square. The double looks lifelike and generates a genjutsu field
+to make it appear as though it alters substance. The double cannot interact with physical
+objects in any real way, but can create sounds.
+The body double can be attacked but not slain and does not dissipate when hit. It appears
+to be damaged as normal. The double shares your Defense score and you can control it
+with a mental effort while holding the weapon. It can be touched and interacted with by
+creatures who have not disbelieved it, but can't use special abilities. Each time the double
+is attacked gives a chance to identify and disbelieve it.
+Identifying the double as an illusion is a Genjutsu check (DC 28) and disbelieving it is a
+Will save (DC 23). Maintaining the double costs 4 chakra per round but no actions.
+Level 24: 8 chakra. The DC to identify the double is 33 and the Will save DC to
+disbelieve it is 27. The double is able to attack sharing your mode of physical attacks, and
+deals half your damage as nonlethal damage. The double's attacks are ineffective if it is
+disbelieved. Creatures immune to mind-affecting attacks or unaware of the double's
+presence are also not affected.
+
+Pulsing [Weapon]
+Superior (Lv 7) DC 22 Epic (Lv 21) DC 41
+Greater (Lv 13) DC 33
+Item Slot: Weapon (any)
+Power (At-Will—Electricity, free action): Half of the damage dealt by the weapon is
+electricity damage. Another free action returns the damage to normal.
+Power (3/day—Electricity, free action): Use a Ninjutsu with the electricity descriptor
+without hand seals or half seals. One affected target suffers an extra 1d8 electricity
+damage and 1 electricity damage every round for 3 rounds (does not stack). The perform
+time is not modified.
+Level 13: 2d8 extra damage and 2 every round.
+Level 21: 3d8 extra damage and 3 every round.
+Special: Projectile weapons bestow the At-Will power to their ammunition.
+
+Quaking [Weapon]
+Superior (Lv 7) DC 22 Epic (Lv 21) DC 41
+Greater (Lv 13) DC 33
+Item Slot: Weapon (any)
+Power (At-Will—Earth, free action): Half of the damage dealt by the weapon is earth
+damage. Another free action returns the damage to normal.
+Power (3/day—Earth, free action): Use a Ninjutsu with the earth descriptor without
+hand seals or half seals. One affected target suffers an extra 1d8 earth damage and 1 earth
+damage every round for 3 rounds (does not stack). The perform time is not modified.
+Level 13: 2d8 extra damage and 2 every round.
+Level 21: 3d8 extra damage and 3 every round.
+Special: Projectile weapons bestow the At-Will power to their ammunition.
+
+Quickblade [Weapon]
+Greater (Lv 12) DC 32
+Item Slot: Weapon (melee only)
+Power (At-Will, free action): Draw this weapon as a free action.
+Power (At-Will, free action): 3 chakra. Make an extra attack with this weapon when
+making a full-attack action.
+This ability does not stack with other techniques or abilities that grant an extra attack,
+such as the flurry of blows ability, the Renzuki technique or itself.
+
+Returning [Weapon]
+Minor (Lv 3) DC 13 Superior (Lv 7) DC 22
+Item Slot: Weapon (thrown)
+Power (At-Will, free action): Use before making an attack. The thrown weapon will
+return to your hand at the beginning of your next turn. Range 50 feet.
+Level 7: 1 chakra. Weapons that hit deal 1 extra damage at the start of your next turn as
+they rip themselves out.
+
+Scattering [Weapon]
+Superior (Lv 8) DC 23 Greater (Lv 12) DC 32
+Item Slot: Weapon (melee only)
+Power (At-Will, attack action): 2 chakra. Make an attack against any enemy within 30
+feet. Target must make a Spot check (DC 13) to retain its Dexterity bonus to Defense
+against it.
+Power (At-Will, attack action): Level 12: 8 chakra. Make a full-attack action against
+any enemy within 30 feet. Spot check is DC 16.
+
+Scorching [Weapon]
+Superior (Lv 7) DC 17 Epic (Lv 21) DC 41
+Greater (Lv 13) DC 33
+Item Slot: Weapon (any)
+Power (At-Will—Fire, free action): Half of the damage dealt by the weapon is fire
+damage. Another free action returns the damage to normal.
+Power (3/day—Fire, free action): Use a Ninjutsu with the fire descriptor without hand
+seals or half seals. One affected target suffers an extra 1d8 fire damage and 1 fire damage
+every round for 3 rounds (does not stack). The perform time is not modified.
+Level 13: 2d8 extra damage and 2 every round.
+Level 21: 3d8 extra damage and 3 every round.
+Special: Projectile weapons bestow the At-Will power to their ammunition.
+
+Screaming Burst [Weapon]
+Superior (Lv 8) DC 23 Epic (Lv 22) DC 43
+Greater (Lv 14) DC 34
+Item Slot: Weapon (any)
+Power (At-Will—Sonic, free action): Half of the damage dealt by the weapon is sonic
+damage. Another free action returns the damage to normal.
+Power (At-Will—Sonic, attack action): Level 14: 4 chakra. Deal an extra 1d4 sonic
+damage. Lasts 1 minute.
+Level 22: 6 chakra. 2d4 sonic damage.
+Special: Projectile weapons grant this bonus to their ammunitions.
+
+Shapeshifting [Weapon]
+Superior (Lv 7) DC 22 Greater (Lv 12) DC 32
+Item Slot: Weapon
+Power (At-Will, full-round action): The weapon shifts and becomes a different weapon
+or object of the same size and similar shape. Both forms benefit from enhancement seals.
+Level 12: Up to 2 size category smaller or larger, and does not need to be similarly
+shaped.
+Special: The secondary form of a weapon is selected when creating the seal.
+If this seal is applied to a double weapon, both heads of the weapon must gain this seal to
+benefit from it.
+
+Shielding [Weapon]
+Minor (Lv 4) +1 DC 13 Epic (Lv 20) +4 DC 40
+Superior (Lv 8) +2 DC 23 Legendary (Lv 26) +5 DC 49
+Greater (Lv 12) +3 DC 32
+Item Slot: Weapon (melee)
+Enhancement: Defense (deflection)
+
+Shocking Burst [Weapon]
+Minor (Lv 3) DC 12 Greater (Lv 13) DC 33
+Superior (Lv 7) DC 22 Epic (Lv 20) DC 40
+Item Slot: Weapon (any)
+Power (At-Will—Electricity, free action): Half of the damage dealt by the weapon is
+electricity damage. Another free action returns the damage to normal.
+Power (3/encounter—Electricity, attack action): Level 13: Fire a bolt of electricity.
+Ranged ray attack, 200-ft. range. 3d6 points of electricity damage, provokes a Fortitude
+save (DC 15) to avoid stun 1 round.
+Level 20: 6d6 damage and saving throw DC 21.
+Power (At-Will—Electricity, attack action): Level 7: 4 chakra. Deal an extra 1d6
+electricity damage. Lasts 1 minute.
+Level 13: 6 chakra. 1d10 electricity damage.
+Level 20: 10 chakra. 2d6 electricity damage.
+Special: Projectile weapons grant this bonus to their ammunitions.
+
+Soulbound Weapon [Weapon]
+Minor (Lv 6) +1 DC 15 Epic (Lv 23) +4 DC 41
+Superior (Lv 11) +2 DC 25 Legendary (Lv 28) +5 DC 49
+Greater (Lv 18) +3 DC 35
+Item Slot: Weapon (any)
+Enhancement: Attack rolls and damage rolls
+Property: Gain 1 negative level while holding the weapon if not bonded to it. Any other
+enhancement seal or special properties of the weapon do not function unless bonded to
+the armor.
+Level 11: 2 negative levels.
+Level 18 or higher: 3 negative levels and base weapon damage reflected to the wielder
+each attack.
+Property: Weapon hardness +5.
+Level 11: Weapon hardness +7.
+Level 18 or higher: Weapon hardness +9.
+Special: Binding this weapon to a creature takes 30 minutes and cannot be undone. A
+soulbound weapon does not grant negative levels to a creature it is bonded to.
+If this seal is applied to a double weapon, both heads must gain the seal to have any
+effect.
+Projectile weapons bestow the enhancement bonus to their ammunition.
+
+Soulflaying [Weapon]
+Superior (Lv 8) DC 23 Greater (Lv 12) DC 32
+Item Slot: Weapon (any)
+Property: Attacks with this weapon hit incorporeal creatures normally.
+Power (At-Will, free action): Use when attacking an outsider or creature with the evil or
+chaos allegiance. Attacks with this weapon deal +2 damage.
+Level 12: As above, attack gains +2 bonus to attack rolls.
+
+Squalling [Weapon]
+Superior (Lv 7) DC 22 Epic (Lv 21) DC 41
+Greater (Lv 13) DC 33
+Item Slot: Weapon (any)
+Power (At-Will—Wind, free action): Half of the damage dealt by the weapon is wind
+damage. Another free action returns the damage to normal.
+Power (3/day—Wind, free action): Use a Ninjutsu with the wind descriptor without
+hand seals or half seals. One affected target suffers an extra 1d8 wind damage and 1 wind
+damage every round for 3 rounds (does not stack). The perform time is not modified.
+Level 13: 2d8 extra damage and 2 every round.
+Level 21: 3d8 extra damage and 3 every round.
+Special: Projectile weapons bestow the At-Will power to their ammunition.
+
+Stainless [Weapon]
+Minor (Lv 3) DC 13 Superior (Lv 10) DC 25
+Item Slot: Weapon (any)
+Property: The weapon cannot rust or get stained by liquids, including blood. It is still
+damaged by acid and other dangerous liquids.
+Property: Level 10. The weapon never requires maintenance and never loses its edge
+unless destroyed or damaged.
+
+Subduing [Weapon]
+Minor (Lv 6) DC 16 Superior (Lv 10) DC 25
+Item Slot: Weapon (any)
+Power (At-Will, free action): Attacks with this weapon deal nonlethal damage. Lasts
+until cancelled.
+Power (At-Will, free action): Level 10. 1 chakra. Use when dealing nonlethal damage
+with this weapon. Deal an extra 1d6 nonlethal damage.
+
+Surging [Weapon]
+Superior (Lv 7) DC 22 Epic (Lv 21) DC 41
+Greater (Lv 13) DC 33
+Item Slot: Weapon (any)
+Power (At-Will—Water, free action): Half of the damage dealt by the weapon is water
+damage. Another free action returns the damage to normal.
+Power (3/day—Water, free action): Use a Ninjutsu with the water descriptor without
+hand seals or half seals. One affected target suffers an extra 1d8 water damage and 1
+water damage every round for 3 rounds (does not stack). The perform time is not
+modified.
+Level 13: 2d8 extra damage and 2 every round.
+Level 21: 3d8 extra damage and 3 every round.
+Special: Projectile weapons bestow the At-Will power to their ammunition.
+
+Tidal Force [Weapon]
+Minor (Lv 3) DC 13 Greater (Lv 13) DC 33
+Superior (Lv 7) DC 22 Epic (Lv 20) DC 40
+Item Slot: Weapon (any)
+Power (At-Will—Water, free action): Half of the damage dealt by the weapon is water
+damage. Another free action returns the damage to normal.
+Power (1/encounter—Water, free action): Level 13 or 20: Perform Suiton Ninjutsu
+ignoring the material focus component. Lasts 3 rounds.
+Power (At-Will—Water, attack action): Level 7: 4 chakra. Deal an extra 1d6 water
+damage. Lasts 1 minute.
+Level 13: 6 chakra. 1d10 water damage.
+Level 20: 10 chakra. 2d6 water damage.
+Special: Projectile weapons grant this bonus to their ammunitions.
+
+Venomous [Weapon]
+Greater (Lv 14) DC 34
+Item Slot: Weapon (melee only)
+Power (3/encounter—Poison, free action): Chakra cost varies. Use before attacking.
+The weapon is coated with one dose of poison the wielder crafted once previously.
+Chakra cost is half the poison's saving throw DC. Poison lasts 1 minute or 1 successful
+attack.
+
+Unyielding [Weapon]
+Superior (Lv 8) +1 DC 23 Greater (Lv 12) +2 DC 32
+Item Slot: Weapon (any melee)
+Enhancement: Damage rolls
+Power (At-Will, attack action): 2 chakra. Weapon gains 10 hardness and 15 hit points.
+Lasts 10 minutes.
+Level 12: 20 hardness, 30 hit points.
+
+Weight Spell [Weapon]
+Greater (Lv 13) DC 33
+Item Slot: Weapon (any)
+Power (At-Will, attack action): 4 chakra. Each time this weapon strikes an object, its
+weight increases by its base weight. If the object was a held weapon, each application of
+this ability confers a -1 penalty to attack rolls and +1 bonus to melee damage, up to 5
+times. Lasts 3 rounds.
+
+Widening [Weapon]
+Superior (Lv 7) DC 22 Epic (Lv 21) DC 41
+Greater (Lv 12) DC 32
+Item Slot: Weapon (any)
+Power (1/day, free action): Use when using an area effect. Increases the radius of a
+burst, spread or emanation by 5 feet, the length of a cone by 10 feet, and the length of a
+line by 20 feet.
+Level 12: As above, but 3/day.
+Level 21: As above, but 5/day.
+
+Windfury [Weapon]
+Greater (Lv 19) DC 39
+Item Slot: Weapon (melee only)
+Power (1/round—Wind, free action): Use after rolling a natural 20 on an attack roll to
+gain an extra melee attack with this weapon at a +5 enhancement bonus to attack and
+weapon damage rolls instead of scoring a critical. This attack cannot score a critical hit.
+Special: The once per round limit applies to each individual weapons if more than one
+windfury seal is used.
+
+Assassin's Deck [Sealed Item]
+This deck of 54 cards seems completely mundane but can be used as a deadly weapon in
+skilled hands.
+Sealed Item
+Minor (Lv 4) +1 DC 15 Superior (Lv 8) +2 DC 25
+Enhancement: Attack rolls
+Property: Each card can be thrown as a dagger or kunai. A thrown card has 50% chance
+to be destroyed.
+
+Assassin's Little Helper [Sealed Item, Weapon]
+This ironium kunai appears perfectly ordinary.
+Sealed Item (ironium kunai)
+Minor (Lv 6) DC 12
+Property: Attacks from this weapon overcome chakra damage reduction.
+Power (1 charge, free action): The ironium kunai permanently transforms into an
+ironium daikunai.
+The weapon retains the ability to bypass chakra damage reduction.
+Special: Crafting an assassin's little helper yields two such weapons.
+
+Bloodstone Ring [Sealed Item]
+This fine silver ring is mounted with a flawless jasper.
+Sealed Item (ring)
+Greater (Lv 15) DC 38
+Power (3/day, free action): Use when performing a Chakra Control, Genjutsu or
+Ninjutsu technique. The chakra cost is reduced as though affected by the Efficient
+Technique meta-chakra feat.
+This power does not go towards the maximum number of meta-chakra feats one can
+apply to a technique.
+
+Cape of the Soaring Heaven [Armor, Sealed Item]
+This cloak is a snow-white cloak with a crimson trim and an impressively large collar.
+Sealed Item (cloak)
+Superior (Lv 11) +3 DC 28
+Enhancement: Defense (armor)
+Property: The Cape of the Soaring Heaven counts as a type V training weight, and does
+not count towards encumberance when worn. It can be donned off as a free action.
+
+Celerity Seal [Sealed Item]
+This small paper tag has a complex seal written upon it.
+Sealed Item
+Superior (Lv 8) DC 20 Greater (Lv 14) DC 32
+Power (1 charge, swift action): You gain a +1 speed rank bonus for 2 rounds.
+Level 15: Gain +2 speed rank bonus.
+Special: Uses one seal slot while active. You can only use one celerity seal every day.
+
+Chakra Weapon [Sealed Item, Weapon]
+This weapon appears ordinary but has been made to adapt to chakra very easily. In a
+statistics entry, this weapon would be known by its weapon type. A fullblade made into
+the superior chakra weapon archetype weapon would be known as a +1 chakra
+fullblade.
+Sealed Item (any ironium or thorium melee weapon)
+Minor (Lv 3) DC 14 Superior (Lv 7) +2 DC 24
+Enhancement: Attack and damage rolls
+Property: Imbue with the non-elemental Ninpou: Chakra Nagashi technique as a swift
+action for only 1 chakra.
+Power (1/round—Force, free action): Level 11: 2 chakra. Use when making a
+successful melee attack with this weapon. The attack deals an extra 2d6 points of force
+damage.
+
+Chakra-sealing Eyepatch [Armor, Sealed Item]
+This simple leather eyepatch appears mundane but has the ability to seal away the
+wearer's chakra.
+Sealed Item (eyepatch)
+Greater (Lv 14) DC 37
+Property: When worn, your chakra pool is reduced by 100. If your chakra pool is
+reduced below 0 through this mean, you may suffer from chakra depletion.
+Any penalty or condition suffered from this effect ends when the chakra-sealing eyepatch
+is removed.
+Property: You take a –5 penalty to Spot checks and a –1 penalty to Speed and Strength
+ranks while wearing the chakra-sealing eyepatch.
+Power (At-Will, free action): Remove the chakra-sealing eyepatch and send a sudden
+burst of chakra to stun chakra-sensitive creatures nearby.
+Any creature that can sense your chakra pool must make a Fortitude save (DC 15+1 every
+10 points of your current chakra pool over 100) or be dazed for 2 rounds.
+
+Death-row Cuffs [Sealed Item]
+These mundane cuffs are made specifically to restrain high-level ninja.
+Sealed Item
+Superior (Lv 8) DC 25 Greater (Lv 14) DC 37
+Property: These manacles act as a sealing tag when worn. The Disable Device check to
+remove them is DC 30.
+Level 14: The Disable Device check is DC 35 and the cuffs gain 1 hardness and 1 hit
+points per level of the wearer (max +10 hardness, +10 hit points).
+
+Demonblood Necklace [Sealed Item]
+This ornate necklace always feels cold to the touch and slightly uncomfortable to wear.
+Sealed Item (necklace)
+Greater (Lv 19) DC 42
+Property: When spending an action point to gain chakra, the result is tripled.
+When the chakra is used or after 1 minute, whichever is longer, make a Fortitude save
+(DC 12+chakra gained) or suffer 2d4 points of tenketsu damage.
+
+Expert's Holster [Sealed Item]
+This simple leather shuriken holster is designed specifically for shuriken expert who use
+chakra blades.
+Sealed Item
+Minor (Lv 5) +1 DC 16 Greater (Lv 15) +3 DC 38
+Superior (Lv 10) +2 DC 27
+Enhancement: Sleight of Hand checks to conceal a weapon
+Property: Acts as a shuriken holster.
+Apply enhancement bonus as attack and weapon damage bonus to any charged thorium or
+ironium weapon drawn from the holster.
+Power (At-Will, attack action): Recharge up to 15 weapons in the holster. Charged
+weapons retain their charge for up to 1 round after they are drawn.
+Special: This item can be a shuriken holster or a large shuriken holster, but no more than
+15 weapons can be charged at once.
+
+Exploding Kunai [Sealed Item, Weapon]
+This kunai appears mundane but can be turned into a deadly explosive.
+Sealed Item (kunai)
+Minor (Lv 3) DC 14
+Power (At-Will, attack action): 2 chakra. Charge the kunai with explosive power. The
+kunai explodes in a 10-ft. radius burst when it strikes an enemy or hard object, dealing
+4d6 points of fire damage (Reflex save DC 15 halves).
+The enemy target suffers a –4 penalty to the saving throw if the exploding kunai hits with
+a successful thrown attack. The exploding kunai is destroyed after exploding.
+
+Faux Body [Sealed Item]
+This featureless body is humanoid and otherwise human-shaped but obviously
+nonhuman.
+Sealed Item
+Superior (Lv 8) DC 25 Greater (Lv 12) DC 30
+Property: This Medium humanoid body can be possessed by creatures with the
+possession ability. It will immediately take upon the features of the possessing creature if
+it is humanoid, or simply grow the necessary organs for the creature to function if it is
+not.
+The faux body has Strength, Dexterity and Constitution scores of 10.
+Level 12: The greater faux body has ability scores of 15, 13 and 12 to be distributed upon
+creation.
+
+Field Pack [Sealed Item]
+This belt pouch appears ordinary, but is empowered with hybrid container seals that
+allow it to contain much more than it normally would.
+Sealed Item
+Superior (Lv 10) DC 27
+Property: This reinforced belt pouch can hold up to 50 pounds of material, or up to 5
+cubic feet in volume, but always weighs 5 pounds.
+
+Hitman's Fireworks [Sealed Item]
+This small pouch contains a special powder, an explosive which is inert when used
+separate from the pouch. To use, throw the full pouch in any open flame.
+Sealed Item
+Minor (Lv 3) DC 9
+Power (1 charge—Fire): Throw in an open flame with a range increment 10 feet. As
+Kasumi Enbu no Jutsu, up to medium explosion.
+
+Horn of Battle [Sealed Item]
+This unassuming horn can be used to fire shockingly loud battle calls.
+Sealed Item
+Superior (Lv 8) DC 25
+Power (3/day—Sonic, attack action): You sound the horn and fire a 30-ft. burst cone
+attack. Anyone caught in it must make a Fortitude save (DC 18) or be knocked back 15
+feet and prone, and deafened for 1d4 rounds.
+The horn can be heard by anyone within 1 mile when used in this manner. Any sleeping
+characters hearing the horn within 500 feet are instantly woken up. Characters further
+away make a Listen check (DC 0) to wake up instantly.
+It ignores any sound barriers erected by characters 15th level or lower.
+
+Magnetized Dagger [Sealed Item, Weapon]
+This ancient dark iron dagger always points north.
+Sealed Item (dark iron dagger)
+Minor (Lv 4) +1 DC 15 Superior (Lv 7) +2 DC 24
+Enhancement: Attack rolls against targets wearing metal armor (circumstance)
+Property: When laid against a flat surface, the magnetized dagger's tip always points
+north.
+
+Ninja's Lock [Sealed Item]
+This simple lock contains a special chakra-based locking mechanism preventing it from
+being opened.
+Sealed Item
+Superior (Lv 7) DC 24
+Property: This lock functions as a high-quality lock (Disable Device check DC 30) and
+is also locked as though by the Fuuin Jutsu - Jou no In seal. Before opening the lock with
+the key or disabling it, it the chakra lock must first be disabled. Once the lock is reengaged,
+the chakra lock seal is also activated.
+Special: If the chakra lock seal has a specific combination, it must be keyed in during the
+lock's creation. It cannot be changed once it has been created.
+
+Ring of Camouflage [Armor, Sealed Item]
+This simple ring allows the wearer to turn partially invisible.
+Sealed Item (ring)
+Superior (Lv 11) DC 28
+Power (2/day, full-round action): As Meisaigakure no Jutsu, but is dispelled
+automatically when hit or on offensive action (no check). Lasts 5 minutes.
+
+Ring of Misdirection [Armor, Sealed Item]
+This ring has the strange ability to let the wearer blend in crowds.
+Sealed Item (ring)
+Superior (Lv 8) DC 25 Greater (Lv 15) DC 38
+Power (3/day, attack action): As Kagekomu, but costs no chakra to maintain (Will DC
+16 negates). Lasts 2 minutes.
+Level 15: As above, but lasts 5 minutes. The Will save is DC 20.
+
+Potence Seal [Sealed Item]
+This small paper tag has a complex seal written upon it.
+Sealed Item
+Superior (Lv 8) DC 20 Greater (Lv 14) DC 32
+Power (1 charge, swift action): You gain a +1 strength rank bonus for 2 rounds.
+Level 15: Gain +2 strength rank bonus.
+Special: Uses one seal slot while active. You can only use one potence seal every day.
+
+Quickdraw Scabbard [Sealed Item]
+This wooden sheath is designed to fit any mass produced curved blade of a specific type.
+It can be crafted to fit a specific blade as well.
+Sealed Item
+Minor (Lv 5) DC 16
+Property: Draw the weapon stored within as part of any attack or technique that uses it.
+Power (3/day, free action): Use Kenjutsu: Iaido or Kenjutsu: Iaijutsu as an attack
+action.
+
+Sentinel's Mask [Sealed Item]
+This mask is held in place by chakra seals on the wearer's face. The mask is generally
+featureless save for faint lines of colored paint. This mask is commonly used by ANBU
+and hunter ninja.
+Sealed Item
+Minor (Lv 5) +1 DC 16 Greater (Lv 13) +3 DC 36
+Superior (Lv 10) +2 DC 27
+Enhancement: Spot checks (competence)
+Property: Functions as a gas mask.
+Power (At-Will, free action): 1 chakra. Gain low-light vision for 10 minutes.
+Power (At-Will, attack action): Level 10 or 13: Use Koemane no Jutsu as a spell-like
+ability for as long as you concentrate (attack action).
+Power (3/day, attack action): Level 13: Gain Sense Chakra for 3 rounds.
+
+Summoner's Quiver [Sealed Item]
+This quiver has a slot on its side to insert a small scroll.
+Sealed Item
+Superior (Lv 8) DC 25
+Power (At-Will—Summoning, free action): Draw an arrow or bolt from the quiver.
+Once drawn, the ammunition will last 1 round.
+Power (At-Will, full-round action): Replace the powering scroll and attune it to the
+quiver. This cannot be undone. Once the scroll can be used, the quiver can create more
+ammunition.
+Special: Whether this item creates arrows or bolts must be determined when creating the
+quiver.
+This quiver only functions when there is a Summoning Scroll powering it. A lesser scroll
+will power 100 arrows, and a greater scroll 200. The ammunition created by the quiver is
+perfectly ordinary.
+
+Supply Pack [Sealed Item]
+This reinforced belt pouch is much larger on the inside than on the outside, and contains
+seal to remain light no matter what is placed inside.
+Sealed Item
+Greater (Lv 13) DC 36
+Property: This reinforced large belt pouch can hold up to 100 pounds of material, or up
+to 10 cubic feet in volume, but always weighs 10 pounds.
+
+Armor of Raijin [Armor, Sealed Item]
+This worn and battered samurai armor conceals an untold power.
+Sealed Item (battle armor)
+Greater (Lv 19) DC 42
+Property: Grants electricity resistance 20.
+Set: This item is part of a set of two: Thunder God's Battlegear.
+
+Sword of Raijin [Sealed Item, Weapon]
+This wooden sword hilt doesn't appear to be fit to host a weapon, and at first glance
+seems completely mundane. A simple press of a concealed button releases a shining
+blade of crackling electricity as radiant as it is deadly.
+Sealed Item (kunai)
+Greater (Lv 19) +3 DC 42
+Enhancement: Attack and damage rolls
+Power (At-Will, free action): Activate the sword of Raijin after drawing it. Once
+activated, the hilt will generate a powerfully bright, yellow-colored blade that can be used
+to as a light source within 60 feet. This glow can be dulled at will with a move action,
+until it is barely stronger than a candle's.
+Once activated, this weapon is wielded as a kunai, but deals damage as a katana. Abilities
+that improve the proficiency of either the kunai or the katana also apply to the sword of
+Raijin, but not both.
+On a successful hit, the sword of Raijin always deals electricity damage instead of
+slashing damage. If the weapon is sundered (hardness 10, 25 hit points), it can be
+reformed again on the wielder's next turn.
+Set: This item is part of a set of two: Thunder God's Battlegear.
+
+True Nature Seal [Sealed Item]
+This small paper tag has a series of seals scribed on it.
+Sealed Item
+Greater (Lv 14) DC 32
+Power (1 charge—Mind-Affecting, attack action): Make a touch attack against a
+creature with the demonic subtype using a rage or frenzy ability. If it hits, the target's rage
+or frenzy ends and it falls unconscious 5 minutes (Will DC 18 negates). This is a mindaffecting
+effect.
+
+Truthfinding Seal [Sealed Item]
+This small paper tag has a complex seal written upon it.
+Sealed Item
+Superior (Lv 11) DC 23
+Power (1 charge—Mind-Affecting, full-round action): You can deliver a touch attack
+against a helpless creature before the end of your next turn. The target will be affected by
+Magen - Kyuuten Jikaichou for 10 rounds (Will DC 20 negates).
+
+Wetsuit [Sealed Item]
+The wetsuit is not a true wetsuit but an ensemble made from a stretchy, rubbery material
+that absorbs shock, aids stealth and does not stain. The wetsuit is generally a pair of
+open-toed boots, pants, a tank top and gloves that come to mid-bicep.
+Sealed Item
+Minor (Lv 6) +1 DC 17 Greater (Lv 17) +3 DC 40
+Superior (Lv 11) +2 DC 28
+Enhancement: Hide and Move Silently checks (competence)
+Property: The wetsuit is impermeable and all liquids slide off without staining it,
+including blood. It is still damaged by acid or other dangerous substances.
+Power (1/day, full-round action): Level 11 or 17: Eliminates all strong scents from your
+body (but does not completely remove your scent.)
+
+Acrobatic [Armor]
+Minor (Lv 3) +1 DC 13 Greater (Lv 12) +3 DC 32
+Superior (Lv 7) +2 DC 22
+Item Slot: Back or waist
+Enhancement: Balance, Climb, Jump, Swim and Tumble checks (competence)
+Power (1/day, instant action): Use when making a Balance, Climb, Jump, Swim or
+Tumble check. You may reroll the result, but you must keep the new result even if it is
+lower.
+
+Analytical [Armor]
+Minor (Lv 5) +1 DC 15 Greater (Lv 14) +3 DC 34
+Superior (Lv 9) +2 DC 24
+Item Slot: Head
+Enhancement: Search and and Sense Motive checks
+Power (3/day, free action): Use when making a Search or Sense Motive check. The
+search check only takes an attack action. If the search check would take more than a fullround
+action, it takes a full-round action instead.
+A Sense Motive check to assess someone's trustworthiness only takes 1 round.
+
+Blurring [Armor]
+Superior (Lv 10) DC 25
+Item Slot: Armor
+Power (Special, swift action): Wearer appears to be moving at great speed and acts as
+though affected by the Jisoku no Jutsu techniques (Will DC 17 disbelieves). Can be used
+up to 5 rounds per day.
+
+Boosting [Armor]
+Minor (Lv 6) DC 16 Greater (Lv 12) DC 32
+Superior (Lv 9) DC 24
+Item Slot: Wrist
+Power (3/day, swift action): 2 chakra. Increases the wearer's character level when
+performing a Genjutsu or Ninjutsu technique by 1. Lasts 1 round.
+Level 9: As above, but increases level by 2.
+Level 12:As above, but increases level by 2 for 2 rounds.
+
+Chakra Amplifying [Armor]
+Minor (Lv 4) +1 DC 14 Greater (Lv 12) +3 DC 32
+Superior (Lv 8) +2 DC 23
+Item Slot: Armor
+Enhancement: Chakra Control checks to tap reserves (competence)
+Power (1/day, free action): Use when performing a technique. The armor amplifies the
+chakra and generates 2 chakra to be used on that technique only.
+Level 8: As above, but the armor generates 5 chakra.
+Level 12: As above, but the armor generates 8 chakra.
+
+Concealing [Armor]
+Superior (Lv 11) DC 26 Greater (Lv 16) DC 36
+Item Slot: Back
+Power (3/day, swift action): Gain 20% concealment miss chance as the garment flutters
+and conceals your body. Lasts 1 round.
+Level 16: As above, but any critical hit or sneak attack targetting you has a 25% chance to
+deal damage as a normal hit instead while the power is active.
+
+Cunning [Armor]
+Minor (Lv 4) +1 DC 14 Greater (Lv 12) +3 DC 32
+Superior (Lv 7) +2 DC 22 Epic (Lv 20) +4 DC 40
+Item Slot: Head or neck
+Enhancement: Knowledge checks (competence)
+Power (1/day): Level 12 or 20. Think on a topic for 1 minute before making a
+Knowledge check and gain a +10 circumstance bonus to that check.
+
+Earth Sense [Armor]
+Minor (Lv 6) DC 16 Superior (Lv 10) DC 25
+Item Slot: Feet
+Power (1/day—Earth, swift action): 2 chakra. Gain tremorsense 20 feet. Lasts 1
+minute.
+Level 10: 5 chakra. As above, but 2/day and tremorsense 40 feet.
+
+Elemental Immunity [Armor]
+Greater (Lv 18) DC 38
+Item Slot: Armor
+Power (1/day, instant action): The wearer becomes immune to one of the following
+energy type, chosen at the seal's construction: cold, earth, electricity, fire, water or wind.
+Lasts 5 rounds.
+
+Gazeblocking [Armor]
+Minor (Lv 3) +1 DC 13 Greater (Lv 14) +3 DC 34
+Superior (Lv 8) +2 DC 23 Epic (Lv 20) +4 DC 40
+Item Slot: Head
+Enhancement: Saves against gaze attacks
+
+Ghostly [Armor]
+Superior (Lv 11) +1 DC 26 Greater (Lv 18) +2 DC 38
+Item Slot: Back
+Enhancement: Defense (deflection)
+Power (1/day, instant action): Incorporeal creatures must hit your normal defense
+(counting armor, natural armor, shield and other bonuses that would not normally apply).
+Lasts 3 rounds.
+
+Intercepting [Armor]
+Minor (Lv 5) +1 DC 15 Greater (Lv 12) +5 DC 32
+Superior (Lv 8) +3 DC 23
+Item Slot: Feet
+Enhancement: Strength checks during bullrush and overrun (competence)
+
+Irongut [Armor]
+Superior (Lv 8) DC 23 Greater (Lv 12) DC 32
+Item Slot: Finger, ear or neck
+Power (1/day, free action): Gain temporary immunity to poison effects. Any current
+poison effect does not affect the wearer for the duration of this ability, and any newly
+applied poison only takes effect after this ability ends. Lasts 1 minute or until the seal is
+removed.
+
+Perception [Armor]
+Superior (Lv 8) DC 23
+Item Slot: Head
+Property: Gain low-light vision.
+Property: Gain darkvision 30 ft.
+Power (3/day, swift action): The range of darkvision provided by this item is doubled,
+but the wearer takes a –4 penalty to attack rolls, Defense and skill checks in bright light.
+Lasts 5 minutes or until dismissed.
+
+Robust [Armor]
+Superior (Lv 8) DC 23
+Item Slot: Armor
+Property: The armor can be slept in without causing the wearer to be fatigued.
+Property: The armor's weight does not count towards the wearer's carrying capacity.
+Property: The wearer can walk up to 10 hours per day and land hop up to 5 hours per
+day before having to make Constitution checks to avoid fatigue.
+
+Safe Landing [Armor]
+Minor (Lv 3) DC 13 Superior (Lv 7) DC 22
+Item Slot: Feet
+Property: The wearer always lands on his feet and takes 4 less dice of damage from any
+fall (minimum 0).
+Level 7: As above, but 8 less dice of damage.
+
+Soulbound Armor [Armor]
+Minor (Lv 5) +1 DC 15 Epic (Lv 21) +4 DC 42
+Superior (Lv 10) +2 DC 25 Legendary (Lv 26) +5 DC 49
+Greater (Lv 15) +3 DC 35
+Item Slot: Armor
+Enhancement: Defense
+Property: Gain 1 negative level while wearing the armor if not bonded to it. Any other
+enhancement seal or special properties of the armor do not function unless bonded to the
+armor.
+Level 10: 2 negative levels.
+Level 15 or higher: 3 negative levels and take one-half again as much damage from any
+attack.
+Property: Armor hardness +5.
+Level 10: Armor hardness +7.
+Level 15 or higher: Armor hardness +9.
+Special: Binding this armor to a creature takes 30 minutes and cannot be undone. A
+soulbound armor does not grant negative levels to a creature it is bonded to.
+
+Springing [Armor]
+Minor (Lv 6) DC 16
+Item Slot: Waist
+Property: Wearer can stand up from prone as a free action that does not provoke an
+attack of opportunity.
+
+Teamwork [Armor]
+Minor (Lv 5) DC 15 Superior (Lv 9) DC 24
+Item Slot: Head
+Property: When flanking with any ally wearing an attuned seal, the wearer gains a +3
+bonus to attack rolls rather than the normal +2.
+Level 9: As above, but the wearer gains the benefits of the Pincer Attack tactic as well.
+Special: When this seal is crafted, it must be attuned to other teamwork seals to function.
+Up to 20 teamwork seals can be attuned to work with one another.
+
+Throwing [Armor]
+Greater (Lv 12) DC 32
+Item Slot: Wrist
+Property: The range of all thrown weapons is doubled when thrown wearing this seal.
+Power (1/encounter, free action): Use after making a successful thrown weapon attack
+but before rolling damage. Deal an extra +2d6 damage.
+
+Avoidance Suit [Armor, Sealed Item]
+This light suit of armor can quicken the wearer's movements when avoiding attacks.
+Sealed Item (any light armor)
+Minor (Lv 6) +1 DC 16 Greater (Lv 14) +3 DC 37
+Superior (Lv 10) +2 DC 27
+Enhancement: Defense
+Power (3/day): Use when performing an avoidance technique. Gain a bonus equal to the
+enhancement bonus of the avoidance suit.
+Power (1/day): As the above power, but the attempt does not count towards your daily
+limit.
+
+Defensive Aegis [Armor, Sealed Item]
+This bulky suit of armor is said to have the power to help the wearer defend his allies.
+Sealed Item (any medium or heavy armor)
+Minor (Lv 6) +1 DC 16 Greater (Lv 14) +3 DC 37
+Superior (Lv 10) +2 DC 27
+Enhancement: Defense
+Power (3/day): Use when performing an defensive maneuver technique. Gain a bonus
+equal to the enhancement bonus of the defensive aegis.
+Power (1/day): As the above power, but the attempt does not count towards your daily
+limit.
+
+Officer's Coat [Armor, Sealed Item]
+This coat has the strange property of being able to repair itself and being otherwise very
+difficult to destroy.
+Sealed Item (reinforced suit)
+Superior (Lv 8) +1 DC 25 Greater (Lv 13) +2 DC 35
+Enhancement: Defense
+Property: The officer's coat is highly resistant to physical harm and will not suffer any
+negative effect from being submerged in mild or potent acid or catching on fire for up to
+5 rounds, though stronger substances can destroy it.
+Furthermore, the coat is impermeable and all liquids slide off it without staining it,
+including blood.
+Power (1/week, 5 minutes): The wearer can use this power to mend any physical
+damage dealt to the coat, unless it was destroyed.
+
+Titan Armor [Sealed Item]
+This suit of samurai's armor enables the wearer to fight fiercely to the end.
+Sealed Item (samurai armor)
+Minor (Lv 5) +1 DC 16 Greater (Lv 15) +3 DC 38
+Superior (Lv 10) +2 DC 27
+Enhancement: Defense
+Property: When reduced to one-half your hit points or lower, gain a +2 deflection bonus
+to Defense and a +1 resistance bonus to all saves.
+
+Water Demon Armor [Sealed Item]
+This suit of reinforced clothing comes in a variety of shades of blue and helps the wearer
+operate underwater.
+Sealed Item (reinforced suit)
+Superior (Lv 9) +1 DC 26 Greater (Lv 13) +2 DC 36
+Enhancement: Defense and Swim checks
+Property: The wearer can move normally while underwater and attack with slashing and
+bludgeoning weapons, provided that the weapon is held and not thrown.
+Power (1/day, free action): 3 chakra. You can breathe water freely. Lasts 5 minutes.
+Level 13: As above, but 2/day.
+Special: This reinforced suit grants a +2 equipment bonus to Hide checks in aquatic
+environments.
+
+Balanced [Weapon]
+Superior (Lv 9) DC 24
+Item Slot: Weapon (any one-handed)
+Property: This weapon can be used as a light weapon when in the off-hand for the
+purposes of Two-Weapon Fighting. This seal does not enable it to qualify for the Weapon
+Finesse feat.
+
+Beheading [Weapon]
+Superior (Lv 8) DC 23
+Item Slot: Weapon (any)
+Property: Make a coup de grace with this weapon as an attack action.
+
+Cleaving [Weapon]
+Superior (Lv 7) DC 22
+Item Slot: Weapon (any melee)
+Property: A wielder with the Cleave feat can make an additional cleave attempt in a
+round. If the wielder does not have the Cleave feat, this seal does not grant it.
+
+Crippling [Weapon]
+Superior (Lv 8) +2 DC 23 Greater (Lv 15) +4 DC 33
+Item Slot: Weapon (any)
+Enhancement: Attack rolls to confirm a critical hit (competence)
+Power (At-Will, free action): 2 chakra. Use when scoring a critical hit. Deal +1d8 extra
+damage, or +2d8 if your weapon's critical multiplier is x3 or higher.
+Level 15: 4 chakra. As above, but +2d6 damage and +4d6 if your weapon's critical
+multiplier is x3 or higher.
+
+Crushing [Weapon]
+Minor (Lv 6) DC 16
+Item Slot: Weapon (any two-handed)
+Property: Gain a +2 bonus to weapon damage rolls when using the Power Attack feat
+with a –2 penalty or higher.
+
+Elementally Prejudiced [Weapon]
+Minor (Lv 3) DC 13 Greater (Lv 13) DC 33
+Superior (Lv 7) DC 22
+Item Slot: Weapon (any)
+Power (At-Will—varies, free action): 2 chakra. All attacks against any creature with
+one of the following subtypes deals 1d4 additional points of damage on a successful hit:
+earth (electricity descriptor), fire (water descriptor), holy (unholy descriptor), ice (no
+descriptor), lightning (wind descriptor), unholy (holy descriptor), water (earth descriptor)
+or wind (fire descriptor). Lasts 1 minute.
+The type of prejudiced enemy is chosen at the creation of the seal.
+Level 7: As above, but 4 chakra and deals 1d6 damage.
+Level 13: As above, but 6 chakra and automatically confirms a critical hit.
+Special: Projectile weapons grant this bonus to their ammunitions.
+
+Illuminated [Weapon]
+Superior (Lv 10) DC 25
+Item Slot: Weapon (any)
+Property: The weapon is treated as a sacred fist attack while in sacred fist stance. Use
+either the weapon's base damage or your sacred fist damage, whichever is highest. The
+buddhist palm ability is also conferred to the weapon.
+If you do not have the Sacred Fist Stance ability, this weapon does not grant it.
+
+Kinetic Burst [Weapon]
+Superior (Lv 8) DC 23 Epic (Lv 22) DC 43
+Greater (Lv 14) DC 34
+Item Slot: Weapon (any)
+Power (At-Will—Force, free action): Half of the damage dealt by the weapon is force
+damage. Another free action returns the damage to normal.
+Power (At-Will—Force, attack action): Level 14: 4 chakra. Deal an extra 1d6 force
+damage. Lasts 1 minute.
+Level 22: 6 chakra. 1d10 force damage.
+Special: Projectile weapons grant this bonus to their ammunitions.
+
+Maiming [Weapon]
+Superior (Lv 11) DC 26
+Item Slot: Weapon (any)
+Property: When used to deliver a sneak attack, the weapon deals sneak attack damage in
+d8 instead of d6.
+
+Mutating [Weapon]
+Superior (Lv 8) DC 22
+Item Slot: Weapon (any melee)
+Property: This weapon counts as chakra-enhanced to overcome damage reduction.
+Power (At-Will, attack action): The composition of the weapon changes to overcome
+one of the following types of damage reduction: dark iron, silver or thorium.
+This power grants none of the other benefits for having a weapon made in a certain
+material.
+
+Raging [Weapon]
+Minor (Lv 6) DC 16 Superior (Lv 11) DC 22
+Item Slot: Weapon (any)
+Power (At-Will, swift action): 1 chakra. Use after making a successful melee attack
+while under a rage or frenzy effect. Deal +1d6 extra damage.
+Level 11: 3 chakra. As above, but deals +2d6 damage.
+
+Sacred [Weapon]
+Superior (Lv 8) DC 23 Epic (Lv 22) DC 43
+Greater (Lv 14) DC 34
+Item Slot: Weapon (any)
+Power (At-Will—Holy, free action): Half of the damage dealt by the weapon is holy
+damage. Another free action returns the damage to normal.
+Power (At-Will—Holy, attack action): Level 14: 4 chakra. Deal an extra 1d6 holy
+damage. Lasts 1 minute.
+Level 22: 6 chakra. 1d10 holy damage.
+Special: Projectile weapons grant this bonus to their ammunitions.
+
+Sinister [Weapon]
+Superior (Lv 8) DC 23 Epic (Lv 22) DC 43
+Greater (Lv 14) DC 34
+Item Slot: Weapon (any)
+Power (At-Will—Evil, free action): Half of the damage dealt by the weapon is negative
+energy damage. Another free action returns the damage to normal.
+Power (At-Will—Evil, attack action): Level 14: 4 chakra. Deal an extra 1d6 negative
+energy damage. Lasts 1 minute.
+Level 22: 6 chakra. 1d10 negative energy damage.
+Special: Projectile weapons grant this bonus to their ammunitions.
+
+Sundering [Weapon]
+Minor (Lv 6) DC 16 Superior (Lv 10) DC 25
+Item Slot: Weapon (any)
+Property: The weapon deals double damage to unattended objects and structures.
+Power (3/day, free action): Level 10. Make a Sunder attempt without provoking an
+attack of opportunity.
+
+Venom-storing [Weapon]
+Superior (Lv 9) DC 24 Greater (Lv 15) DC 35
+Item Slot: Weapon (any melee)
+Power (At-Will, full-round action): Store 1 dose of any injury or contact poison in the
+weapon. The weapon holds up to 3 doses.
+Level 15: As above, but holds 5 doses.
+Power (At-Will, attack action): Use to coat the blade with 1 dose of any stored poison.
+
+Beheading Shuriken [Sealed Item, Weapon]
+This shuriken is the size of a man's torso.
+Sealed Item (large shuriken)
+Superior (Lv 8) DC 25
+Property (3/day, free action): 2 chakra. Use when throwing the beheading shuriken.
+The shuriken grows in massive size and deals 4d8 slashing damage instead of its base
+damage, plus any normal modifier.
+This ability does not stack with techniques and effects that increase weapon size, such as
+Kubikiri Shuriken.
+Special: Crafting this sealed item creates 2 beheading shuriken. A beheading shuriken is
+never destroyed when thrown.
+
+Bladestaff [Sealed Item, Weapon]
+This short rod an opening on each end. When activated, it emits a blade of bright colored
+light.
+Sealed Item (soul edge)
+Superior (Lv 7) DC 24
+Power (At-Will, free action): 1 chakra. As Seireiha, but the bladestaff forms into a twobladed
+sword. The bladestaff requires additional proficiency in the two-bladed sword to
+be used without a penalty rather than simply counting as a soul edge.
+Costs no chakra with the soul edge class feature. Lasts until dismissed or the bladestaff is
+dropped for more than 1 round.
+Property: This sealed item can accept weapon seals, unlike other archetype weapons, but
+each head of this double weapon must be enhanced separately. These seals can only be
+used by a wielder with the empower soul edge class feature.
+
+Cord of Serenity [Sealed Item, Weapon]
+This rope can be wrapped around the hands to form gauntlets of a sort, as per an ancient
+martial arts tradition.
+Sealed Item (gauntlets)
+Superior (Lv 8) +1 DC 25 Greater (Lv 14) +2 DC 37
+Enhancement: Attack and damage rolls
+Property: The wearer suffers no penalty to attack rolls when making a sacred flurry with
+these gloves.
+Power (1/encounter, free action): Use this ability when making a sacred flurry. You use
+your Wisdom bonus to modify sacred fist attack and damage rolls for 1 round.
+Level 14: As above, but 2/encounter.
+
+Paragon Blade [Sealed Item, Weapon]
+These weapons are highly prized by iaijutsu and kenjutsu adepts as extremely light, easy
+to use swords that can cleave through almost anything with ease. Very few paragon
+blades were made.
+Sealed Item (katana)
+Greater (Lv 18) +3 DC 36
+Enhancement: Attack and damage rolls
+Property: The paragon blade ignores hardness from objects with hardness 10 or less, and
+has hardness 15.
+Property: The paragon blade is treated as a wakizashi for weight and ease of use, but
+appears to be a katana and deals damage as a katana.
+Any character proficient in either the katana or the wakizashi can use a paragon blade.
+Abilities that function like Weapon Focus and Weapon Specialization for either the
+katana or the wakizashi likewise also apply to the paragon blade.
+
+Reaching Whip [Sealed Item]
+This leather whip looks unremarkable but for its strange properties.
+Sealed Item (whip)
+Minor (Lv 6) +1 DC 16 Superior (Lv 11) +2 DC 28
+Enhancement: Attack and damage rolls
+Power (2/day, free action): Use when making an attack, trip attempt or disarm attempt
+with this weapon. The attack can reach a target up to 30 feet away.
+
+Senbon Umbrella [Sealed Item, Weapon]
+This metal umbrella can be used to dispense shade, but holds a deadlier secret: it can be
+used by a skilled wielder to rain death on his opponents.
+Sealed Item (ironium metal baton)
+Minor (Lv 6) DC 17
+Power (1 charge, attack action): Throw the umbrella in the air and rain throwing
+needles. The attack has a range of 30 feet and strikes every creature in a 20-ft. radius, 30-
+ft. high cylinder centered on it. All creatures in the area suffer 3d6 points of piercing
+damage (Reflex save DC 18 halves).
+The wielder can designate a 5- or 10-ft. square as a safe zone within the area's effect. Any
+creature standing within it will not be affected by the attack. The weapon will fall inert at
+the center of its attack when it is finished dispensing the throwing needle rain.
+Special: This item can be recharged using 150 throwing needles and a Repair check (DC
+10). Doing so takes 1 hour.
+
+Staff of the Earthshaker [Sealed Item]
+This heavy staff has the peculiar ability to create powerful shockwaves when slammed
+into the ground.
+Sealed Item (dark iron quarterstaff)
+Superior (Lv 8) +1 DC 25
+Enhancement: Attack and damage rolls
+Power (1/encounter, attack action): 2 chakra. Slam the staff into the ground. All
+creatures in a 30-ft. radius burst suffer 1 earth damage and become unable to use the
+tremorsense ability for 1 round.
+
+Swordscepter [Sealed Item, Weapon]
+This small cylindrical hilt has an opening on one end. When activated, it emits a blade of
+bright colored light.
+Sealed Item (soul edge)
+Superior (Lv 7) DC 24
+Power (At-Will, free action): 1 chakra. As Seireiha, but always forms one of the
+following types of weapons: shortsword, longsword or bastard sword (chosen on item
+creation). Costs no chakra with the soul edge class feature. Lasts until dismissed or the
+swordscepter is dropped for more than 1 round.
+Property: This sealed item can accept weapon seals, unlike other archetype weapons.
+These seals can only be used by a wielder with the empower soul edge class feature.
+
+True Iaito [Sealed Item, Weapon]
+This katana is light and perfectly balanced for iaijutsu.
+Sealed Item (katana)
+Superior (Lv 7) +3 DC 24 Greater (Lv 15) +5 DC 38
+Enhancement: Attack rolls with any iaido techniques (competence, see below)
+Power (2/day, free action): Use this weapon when making an attack with the Iaido,
+Iainuki, Zankenteki, Shukuchi Higi: Shuntensatsu and Hiten Mitsurugi Ryu: Hi Ryu Sen,
+Ryu Kan Sen Tsumuji, Sou Ryu Sen, Sou Ryu Sen Ikazushi and Tsui no Hiken: Ama
+Kakeru Ryu no Hirameki, or in the Kenjutsu: Dachi - Battoujutsu stance.
+The attack deals double weapon damage. Remember that multipliers are additive, not
+multiplicative.
+Level 15: As above, but 2/encounter.
+Property: This weapon counts as chakra-enhanced to overcome damage reduction.
+Property: This weapon can be sheathed as a free action once per round that does not
+provoke an attack of opportunity.
+
+Amulet of Cold Fury [Armor, Sealed Item]
+This simple leather necklace holds a shattered blood ruby trapped in a sealscribed mesh.
+Sealed Item (necklace)
+Greater (Lv 12) DC 35
+Property: The wearer gains a +2 bonus to Will saves to control frenzy effects.
+Power (1/day, special): This ability automatically activates whenever the wearer would
+risk attacking an ally during a frenzy effect. The frenzy effect automatically ends.
+
+Amulet of Lasting Fury [Armor, Sealed Item]
+This simple leather necklace holds a shattered sapphire trapped in a sealscribed mesh.
+Sealed Item (necklace)
+Superior (Lv 11) DC 28
+Property: The duration of of any rage effect increases by 2 rounds.
+
+Beacon Tag [Sealed Item]
+This small paper tag has a complex seal written upon it.
+Sealed Item
+Superior (Lv 11) DC 23
+Power (1 charge, attack action): Make a touch attack against a creature. The creature
+will emit a very distinctive, moderate chakra signature. Lasts 1 minute.
+
+Black Ops Bodysuit [Sealed Item]
+This black uniform is often skin-tight and also functions as a pair of black fatigues for
+night-time camouflage.
+Sealed Item
+Minor (Lv 6) +1 DC 17 Greater (Lv 17) +3 DC 40
+Superior (Lv 11) +2 DC 28
+Enhancement: Hide, Move Silently and Initiative checks (competence)
+Property: You can reroll any result of 1 when dealing extra damage with the Sneak
+Attack or Sudden Strike ability, but you must keep the new result even if it is another 1.
+Power (1/day, free action): Level 11 or 17. Use this power in dark settings or in night
+time. Gain 20% concealment against any creature without darkvision, blindsight or
+blindsense. Lasts 5 rounds or until you enter a well-lit area.
+
+Blacksilk Rope [Sealed Item]
+This black silk rope is simple but of high quality.
+Sealed Item
+Superior (Lv 10) +5 DC 27
+Enhancement: Climb checks with the rope and Dexterity checks to bind a creature
+Property: This 50-ft. long silk rope can bear up to 5,000 pounds of weight and is very
+difficult to see in dark settings or during night time (Spot check DC 30).
+The blacksilk rope is very difficult to break (Break check is DC 35).
+Property: The blacksilk rope has no chakra signature.
+
+Blacksmith's Hammer [Sealed Item]
+This otherwise ordinary blacksmith's hammer feels heavy and is covered with seals.
+Sealed Item
+Superior (Lv 8) +2 DC 25
+Enhancement: Craft (mechanical) checks
+Power (1/week): Use this ability when crafting a mechanical object that would normally
+be possible to make with a forge, anvil and hammer, such as a sword or armor.
+The time required to craft an object is lessened. A simple object takes 10 minutes, a
+moderate object takes 30 minutes, a complex object takes 1 hour, and an advanced object
+takes 8 hours.
+
+Blindfold of True Sight [Armor, Sealed Item]
+This blindfold takes away sight in return for so much more.
+Sealed Item (blindfold)
+Epic (Lv 21) DC 46 Legendary (Lv 28) DC 57
+Property: This blindfold is worn over the eyes and renders the wearer completely blind,
+thus gaining immunity to gaze attacks and other sight-based effects also rendering the
+wearer unable to use gaze attacks and other sight-based effects, such as bloodlines.
+The wearer gains the blindsight 30 feet special ability while wearing this blindfold.
+This property only functions if all eyes are covered.
+Property: Level 28. As above, but the wearer gains a +2 insight bonus to Listen and
+Sense Motive checks, attack rolls and Defense.
+
+Carrier Belt [Sealed Item]
+This sash is in fact a thick rope and has four tassels hanging from it, resembling a
+traditional shimenawa.
+Sealed Item (belt)
+Superior (Lv 10) DC 27
+Property: The wearer can bring along up to 4 creatures who grab on the tassels with any
+teleportation ability and techniques with the Teleportation descriptor, whether or not he
+would normally be able to bring other creatures along.
+
+Concealing Scabbard [Sealed Item]
+This short black scabbard can be made to fit a specific type of bladed weapon, and is
+much larger inside than it is outside, making the sheathed weapon appear smaller than it
+really is.
+Sealed Item
+Minor (Lv 6) DC 7
+Property: The sheathed bladed weapon can be concealed as though it was two size
+categories smaller than in reality.
+
+Corsair's Ring [Sealed Item]
+This simple iron ring is set with a sharp, flat spike resembling a very short blade.
+Sealed Item (ring)
+Minor (Lv 4) +1 DC 15 Greater (Lv 19) +3 DC 42
+Superior (Lv 8) +2 DC 25
+Enhancement: Disable Device checks to open locks (competence)
+Property: This ring functions as a lockpick set and can be used as a brass knuckle that
+deals piercing damage.
+Power (3/day, move action): Make a Disable Device check to open a lock. The check is
+completed during this action.
+
+Cure Potion [Sealed Item]
+This vial of viscous green liquid can cure fatigue and heal the body.
+Sealed Item
+Superior (Lv 10) DC 22
+Power (1 charge, attack action): You heal 1d6 hit points, are no longer fatigued or
+exhausted, and recover 1 point of ability damage. Any chakra overload from medical
+ninjutsu is removed.
+Ingesting more than one cure potion per day deals 5d6 points of damage and has no
+effect.
+Special: This item can only be crafted by a character with 1 or more level in the Medical
+Specialist class.
+
+Disposal Tag [Sealed Item]
+This small paper tag has a complex seal written upon it.
+Sealed Item
+Superior (Lv 11) DC 23
+Power (1 charge, attack action): Place on a Medium-size or smaller corpse or a
+similarly sized pile of organic material. The corpse or material will be dissolved into
+wisps of chakra in 1 minute.
+If the tag is removed before the process is completed, it has no effect.
+
+Goggles of Projection [Armor, Sealed Item]
+This pair of black-tinted goggles or glasses can convey a message with more than words.
+Sealed Item (goggles)
+Greater (Lv 15) DC 38
+Power (2/day—Mind-Affecting, attack action): You can deliver a short message of up
+to 25 words to a single creature through a gaze attack. This message is strictly one-sided.
+This simple illusion manipulates the target's senses and relays a message in a clear voice
+that can be heard over any sound, even if the creature is deaf, but it must be relayed in a
+language the creature knows. A blind creature is not affected by this ability. The Will
+save to resist the effect is DC 14 (harmless).
+
+Gravity Suit [Armor, Sealed Item]
+This jumpsuit is can adjust its weight and help mitigate the effects of low- and highgravity
+environments.
+Sealed Item
+Superior (Lv 8) DC 25 Greater (Lv 15) DC 38
+Property: The negative effects of being in a low- or high-gravity environment are halved
+while wearing a gravity suit.
+Power (At-Will, attack action): 2 chakra. Use to change the weight of the suit.
+The suit begins to act as a training weight type I to type V, determined when using the
+power. Lasts until cancelled or until the suit is taken off for more than 1 round.
+Level 15: As above, but the suit can act as training weight type I to type VIII.
+Special: The gravity suit can be crafted to resemble a set of normal clothes, but the
+purchase DC increases by 1.
+
+Illumination Seal [Sealed Item]
+This small paper tag has a complex seal written upon it.
+Sealed Item
+Greater (Lv 12) DC 30
+Power (1 charge, attack action): Make a touch attack against a creature. The creature's
+chakra aura will glow brightly. Any creature with the see chakra ability gains a +5
+circumstance bonus to Spot checks against the creature, even in total darkness, and be
+able to recognize the creature's chakra color with ease. Lasts 1 minute.
+
+Implanted Eye: Fleshbinder [Sealed Item]
+This implanted eye has a black sclera and red iris with three small pupils arranged in a
+triangle formation.
+Sealed Item (implanted eye)
+Greater (Lv 12) DC 35
+Power (2/day, attack action): 3 chakra. Any creature within 30 feet becomes paralyzed
+for 5 rounds as though with Kanashibari no Jutsu (Will save DC 17 negates).
+
+Implanted Eye: Flux Perception [Sealed Item]
+This implanted eye has a white sclera and a green iris, but looks clearly artificial.
+Sealed Item (implanted eye)
+Superior (Lv 8) DC 25 Greater (Lv 12) DC 35
+Power (3/day, attack action): Use to gain a secondary mode of vision, motion sense.
+You gain a +3 bonus to Spot checks against fast objects and a high speed sight 2. This
+ability works in a similar manner to the koimeigan Doujutsu bloodline. Lasts 1 minute.
+Level 12: As above, but +5 to Spot checks and high speed sight 4.
+
+Implanted Eye: Heat Vision [Sealed Item]
+This implanted eye has a white sclera and a purple iris, but looks clearly artificial.
+Sealed Item (implanted eye)
+Superior (Lv 10) DC 27
+Power (3/day, attack action): Use to gain a secondary mode of vision, heat vision. Gain
+a +4 bonus to spot checks to spot living, warm-blooded creatures or warm objects even in
+total darkness, concealment or invisibility. This bonus also applies when detecting cold
+creatures or objects in a warm environment. Lasts 5 rounds.
+
+Implanted Eye: Keen Sight [Sealed Item]
+This implanted eye has a white sclera and a blue iris, but looks clearly artificial.
+Sealed Item (implanted eye)
+Superior (Lv 10) DC 27
+Power (3/day, attack action): Use to gain a secondary mode of vision, telescopic sight.
+You suffer a penalty to Spot checks from distance only every 30 feet instead of every 10
+feet, and ranged attacks made in this manner are treated as though using a scope, though
+the ability does not stack with an actual scope.
+You suffer a -4 penalty to attack rolls and defense, and Search and Search checks against
+creature or objects within 30 feet. Lasts 5 minutes or until deactivated.
+
+Implanted Eye: Night Vision [Sealed Item]
+This implanted eye has a white sclera and a brown iris, but looks clearly artificial.
+Sealed Item (implanted eye)
+Superior (Lv 8) DC 25
+Power (3/day, attack action): Use to gain a secondary mode of vision, night vision. You
+gain the low-light vision ability and the darkvision 60 feet ability. Lasts 10 minutes.
+
+Implanted Eye: Truth Seeking [Sealed Item]
+This implanted eye has a white sclera and a black iris, but looks clearly artificial.
+Sealed Item (implanted eye)
+Superior (Lv 8) DC 25
+Power (3/day, swift action): Use to gain a keen insight in reading body language. Gain a
++5 bonus to Sense Motive checks and to Spot checks against surprise, and the ability to
+See Chakra. Lasts 3 rounds.
+
+Magatama Pendant [Armor, Sealed Item]
+This pendant bears a small, curved comma-shaped jewel known as a magatama.
+Sealed Item (necklace)
+Minor (Lv 5) +1 DC 16 Greater (Lv 13) +5 DC 36
+Superior (Lv 9) +3 DC 26
+Enhancement: Saving throws against possession (luck)
+Power (1/day, free action): Level 13: Use when making a saving throw against
+possession to reroll the save. Use the second result, even if it is worse.
+
+Master's Wristbands [Armor, Sealed Item]
+This pair of bracers can be powered to create thrown weapons.
+Sealed Item (bracers)
+Superior (Lv 8) DC 25
+Power (Special—Summoning, free action): Use this ability as part of making a thrown
+or melee weapon attack. Draw a shuriken or kunai and use it to attack. Once drawn, the
+weapon will last 1 round.
+Power (At-Will, full-round action): Transfer the power of a summoning scroll to power
+up the master's wristbands. Once this process is completed, the wristbands can create
+more weapons but the summoning scroll turns blank.
+Special: Whether the master's wristbands creates shuriken or kunai must be determined
+at the item's creation. The master's wristbands only functions after being powered by a
+Summoning Scroll.
+A lesser scroll will power 50 shuriken, 25 kunai or 10 large shuriken or fuuma shuriken,
+while a greater scroll will power 100 shuriken, 50 kunai or 20 large shuriken or fuuma
+shuriken. The weapons created by the master's wristbands are perfectly ordinary.
+
+Monster Mask [Sealed Item]
+This shinobi gas mask is designed to resemble a monster's gaping maw.
+Sealed Item (gas mask)
+Minor (Lv 5) +2 DC 16
+Enhancement: Intimidate checks (competence)
+Property: This object functions as a normal gas mask (see chapter 7: Equipment).
+Power (At-Will, attack action): Use the mask to deliver a bite attack. The attack deals
+1d6 points of piercing damage plus your Strength modifier times 1.5.
+
+Negation Amulet [Armor, Sealed Item]
+This pendant, a simple onyx circle broken in two, hangs from a simple leather cord.
+Sealed Item (necklace)
+Greater (Lv 14) DC 37 Greater (Lv 19) DC 42
+Power (1/day, instant action): Any insight bonus stops functioning against the wearer.
+This applies to any action that includes the wearer regardless of the intent, such as
+attacking, defending or attempting to help the wearer. Insight penalties are not affected.
+Lasts 1 round.
+Level 19: As above, but usable twice per day.
+
+Ninja's Sandals [Armor, Sealed Item]
+These sandals can easily focus chakra to the feet.
+Sealed Item (sandals)
+Minor (Lv 6) DC 17 Superior (Lv 8) DC 25
+Power (At-Will, attack action): 1 chakra. The wearer can walk up walls, stand on water
+or snow as though affected by Ki Nobori, Tadayou and Yukigutsu. Lasts 10 minutes.
+Power (3/day, instant action): Level 8. 2 chakra. As the At-Will power. Lasts 1 minute.
+
+Obscuring Vestment [Armor, Sealed Item]
+This hooded cloak or coat has the strange property of obscuring the face when the hood
+is pulled down.
+Sealed Item (hooded travel cloak)
+Superior (Lv 8) DC 25
+Property: The wearer's face is completely obscured when the hood is worn, even when
+light is shined over it.
+Power (3/day, attack action): As Kakureimino no Jutsu, but functions in all settings.
+
+Pendant of Deep Sleep [Armor, Sealed Item]
+This pendant in the shaped of a closed eye hangs from a thin chain.
+Sealed Item (necklace)
+Superior (Lv 8) DC 25
+Property: Whenever the wearer takes an extended rest, the wearer gains the benefits as
+though under the effects of Iryou Ninjutsu: Iji - Shousen Jutsu but suffers a further -4
+penalty to Listen checks to wake up from noise.
+Special: This necklace must be worn for at least 24 hours before the wearer can gain any
+benefits.
+
+Portable Theater [Sealed Item]
+This wooden box can be carried like a back pack.
+Sealed Item
+Minor (Lv 5) DC 16 Greater (Lv 13) DC 36
+Superior (Lv 9) DC 26
+Property: The portable theater weighs 20 pounds and is roughly the size of a large
+backpack, and has the ability to hold puppets and their components without altering the
+weight of the portable theater, though carrying other objects inside will cause it to
+behave as a normal container.
+It can hold a Medium-size puppet or two Small puppets with all of their components. A
+puppet can be animated inside the portable theater, and exiting it is a move action that
+does not provoke an attack of opportunity.
+Level 9: As above, but it can hold a large puppet or two medium puppets or four small
+puppets.
+Level 13: As above, but it can hold two large puppets or four medium puppets or eight
+small puppets.
+
+Physician's Glasses [Armor, Sealed Item]
+These small round glasses have the power to show the wearer the extent of one's injuries.
+Sealed Item (glasses)
+Superior (Lv 7) DC 24
+Power (At-Will, attack action): The wearer can evaluate the physical condition of all
+creatures within 30 feet as per Iryou Ninjutsu: Shinryou Jutsu.
+Power (2/day, attack action): The wearer can use the Treat Injury skill to restore hit
+points aganist a creature whose condition it has evalued and gain a +2 insight bonus to his
+Treat Injury check and to the result of hit points recovered.
+
+Protective Torc [Armor, Sealed Item]
+This metal neckwear encloses the wearer's neck to protect it.
+Sealed Item (necklace)
+Superior (Lv 10) +5 DC 27
+Enhancement: Saving throws against coup de graces, death effects and massive damage
+
+Purifying Canteen [Sealed Item]
+This small canteen can hold a little more than 1 quart of liquid.
+Sealed Item
+Minor (Lv 6) DC 16
+Power (At-Will—Water, free action): Use this ability to purify liquids in the canteen.
+This process takes 1d4 hours and removes all toxins, poisons, diseases and other
+impurity, leaving the liquid pure and safe to drink.
+
+Razorwire Gloves [Sealed Item]
+This pair of leather gloves has a metal cap at tip of each finger.
+Sealed Item (gloves)
+Minor (Lv 6) +1 DC 16 Greater (Lv 14) +3 DC 37
+Superior (Lv 10) +2 DC 27
+Enhancement: Attack rolls, disarm or trip attemps made with chakra threads
+Power (2/day, swift action): 2 chakra. Use when controlling B-Class or better chakra
+threads. The chakra threads become visible and function as a battle wire as though in
+Kousen Ryuu stance.
+The battle wire mode gains an enhancement bonus to attack and damage rolls equal to the
+razorwire glove's enhancement bonus and overcome chakra damage reduction. This
+ability does not function while in a stance.
+The wearer can create two battle wires if he has the Two-Weapon Fighting feat. Lasts 5
+minutes or until cancelled.
+
+Ring of Elemental Ward [Armor, Sealed Item]
+This ring functions much like an Elemental Resistance armor seal, but with better
+protection.
+Sealed Item (ring)
+Superior (Lv 11) DC 28 Epic (Lv 25) DC 52
+Greater (Lv 16) DC 39
+Power (At-Will, attack action): 7 chakra. Gain resistance 10 to cold, earth, electricity,
+fire, water and wind damage. This effect absorbs up to 75 damage.
+Level 16: 10 chakra. As above, but resistance 15 and absorbs 125 damage.
+Level 25: 15 chakra. As above, but resistance 20 and absorbs 175 damage.
+
+Ring of Energy Alteration [Armor, Sealed Item]
+Sealed Item (ring)
+Greater (Lv 12) DC 32
+Power (3 charges, free action): Use when spending a meta-chakra charge. Expend a
+charge from this ring instead of a meta-chakra charge.
+
+Ring of Perfect Recovery [Sealed Item]
+This simple iron band is engraved with the universal caduceus symbol.
+Sealed Item (ring)
+Greater (Lv 12) DC 35
+Power (3/day, attack action): 3 chakra. As Iryou Ninjutsu: Iji - Shousen Jutsu, but
+requires 5 or more ranks in Treat Injury to use.
+Property: You can reroll any result of 1 when channeling or discharging a Medical
+ninjutsu technique that restores hit points, up to 4 rerolls per technique. You must keep
+the new result, even if it is another 1.
+
+Ring of the Socialite [Sealed Item]
+This beautifully crafted silver ring is mounted with a clear, flawless sapphire of
+considerable size.
+Sealed Item (ring)
+Superior (Lv 7) +1 DC 24 Greater (Lv 12) +2 DC 35
+Enhancement: Bluff, Diplomacy, Intimidate and Sense Motive checks (competence)
+Power (2/day, free action): Use when making a skill check improved by the ring. The
+competence bonus granted by the ring of the socialite is doubled.
+
+Sash of the High General [Sealed Item, Armor]
+This rope sash is long enough to wrap around a normal man's waist twice, but otherwise
+appears completely ordinary.
+Sealed Item (waist)
+Legendary (Lv 24) DC 55
+Property: Reduces the cost of active Speed and Strength ranks as though the ability was
+effectively 3 ranks lower (minimum 0).
+Power (1/day, swift action): Gain a +1 bonus to Speed and Strength ranks. Lasts 3
+rounds.
+
+Scroll of Forbidden Knowledge [Sealed Item]
+This large scroll contains more than 500 pages ripe with information, most of which can
+only be revealed with chakra.
+Sealed Item
+Epic (Lv 21) DC 46
+Property: Reading from the scroll, you can learn hijutsu and kinjutsu techniques without
+additional successes.
+Power (1/day): Make a Chakra Control check (DC 25) and study the scroll for 10
+minutes. If the check is successful, you gain a +5 insight bonus to Learn checks for 1
+learn attempt, no matter the length.
+
+Scroll of Sealed Knowledge [Sealed Item]
+This large scroll contains hard-earned knowledge that is to be passed on from master to
+student.
+Sealed Item
+Greater (Lv 19) DC 42
+Power (1 charge): Study this scroll for 8 hours to gain the knowledge stored within. You
+qualify as though having selected the feat contained in the scroll of sealed knowledge for
+the purpose of meeting any prerequisite. This benefit does not apply to learning Epic
+techniques.
+The feat must be one the creator of the scroll knows and is selected at the item's creation,
+and must have been selected by the creator rather than learned through an object such as
+this one.
+The knowledge contained in the scroll is erased as soon as it is absorbed, and after the
+scroll's contents are read entirely, it becomes blank again. The student must be able to
+read the language the scroll was written in.
+
+Sentinel's Cloak [Armor, Sealed Item]
+This black cloak, often used by black ops groups, affords protection against most
+hazards.
+Sealed Item (travel cloak)
+Minor (Lv 3) DC 14 Greater (Lv 13) DC 35
+Superior (Lv 8) DC 25
+Property: You gain damage reduction 1/chakra.
+Level 8: As above, but damage reduction 2/chakra.
+Level 13: As above, but damage reduction 3/chakra.
+Property: The sentinel's cloak is highly resistant to physical harm and will not suffer any
+negative effect from being submerged in mild or potent acid or catching on fire for up to
+5 rounds, though stronger substances can destroy it.
+Furthermore, the coat is impermeable and all liquids slide off it without staining it,
+including blood.
+Property: The sentinel's cloak grants a +5 resistance bonus to checks and saving throws
+made to resist extreme weather of any type.
+
+Soaking Solution [Sealed Item]
+This vial of liquid can be drunk to breathe water as though air.
+Sealed Item
+Minor (Lv 6) DC 17
+Power (1 charge, attack action): You can breathe water freely. Lasts 1 hour.
+
+Solid Eye-patch [Armor, Sealed Item]
+This eyepatch affords the wearer style and sharp eyesight in certain conditions.
+Sealed Item (eyepatch)
+Greater (Lv 12) DC 35
+Property: This eyepatch does not impede vision and appears completely transparent to
+the wearer.
+Power (3/day, swift action): Gain the benefits of the Blind-Fight feat and do not suffer
+concealment penalties when fighting in thick mist or smoke for creatures within 10 feet.
+Lasts 1 minute.
+The eyepatch must be worn over a functional eye for this ability to have any effect.
+
+Soothing Incense [Sealed Item]
+This incense soothes and clears the mind.
+Sealed Item
+Minor (Lv 6) DC 12
+Power (1 charge): Burn this incense and meditate for 10 minutes. Gain a +2 insight
+bonus to Concentration checks to perform a technique defensively and a +2 insight bonus
+to Chakra Control checks to tap your reserves for 8 hours.
+
+Soundless Pellets [Sealed Item]
+This small glass sphere explodes to create a null-sound space.
+Sealed Item
+Superior (Lv 7) DC 19
+Power (1 charge—Sonic): Throw in at any square within 50 feet with a range increment
+10 feet. The sphere shatters and all sound in a 30-ft. radius burst is completely negated for
+1 round. Any technique with the sonic descriptor is completely ineffective in the area for
+the duration, or and simply negated if it originates from within the area.
+
+Specialty Puppet [Sealed Item]
+This puppet core is easily distinguishable from others as a master work, and is often
+made in a style typical to a single puppeteer.
+Sealed Item (puppet)
+Superior (Lv 8) DC 25 Epic (Lv 22) DC 47
+Greater (Lv 15) DC 38
+Property: This Utility or Combat puppet gains a +2 enhancement bonus Strength score
+and effective Dexterity score. In addition, the threshold for puppet overkill increases as
+though it was animated with 5 more hit dice.
+The specialty puppet only registers as a sealed item when animated.
+Level 15: As above, but a +4 bonus and the threshold increases by 10 hit dice instead.
+Level 22: As above, but a +6 bonus. The puppet gains 5 bonus chakra.
+Power (1/day, swift action): Animate the puppet as a swift action with the Puppetry
+ability instead of an attack action.
+Special: This item requires the Craft Puppets feat, and must be crafted at the same time,
+though as a separate component, as a Combat or Utility puppet core. The specifics of the
+puppet core may vary, at the crafter's discretion.
+
+Stormbearer's Greatcoat [Armor, Sealed Item]
+This long, white coat is made of a light fabric but is surprisingly durable.
+Sealed Item (coat)
+Epic (Lv 22) +2 DC 47
+Enhancement: Fortitude, Reflex and Will saves (Resistance)
+Power (1/day): Use when making a saving throw against an effect that would have a
+lesser effect on a successful save. You completely negate the effect on a successful save,
+and suffer only the lesser effect on a failed save.
+
+Sunstone [Sealed Item]
+This small clay sphere can be thrown to shed bright but temporary light over an area.
+Sealed Item
+Minor (Lv 5) DC 15
+Power (1 charge, free action): Throw anywhere within 50 feet. The sunstone bursts and
+creates bright light in a 30-ft. radius, and dim light for 20 feet beyond that area. The light
+lasts 5 rounds.
+Special: When creating this item, you produce 10 sunstones instead of just one.
+
+Surveyor's Glasses [Sealed Item]
+These black-rimmed glasses give the wearer a sharp instinct for appraisal.
+Sealed Item (glasses)
+Superior (Lv 8) +3 DC 25
+Enhancement: Knowledge checks to appraise objects (competence)
+Power (3/day, free action): 1 chakra. As Chakra Shori no Jutsu, but to identify the
+properties of an object within 5 feet with the Chakra Reading mode only.
+
+Tome of Knowledge [Sealed Item]
+This large, leatherbound book contains a wealth of information on a myriad of topics.
+Sealed Item
+Superior (Lv 10) DC 27 Greater (Lv 15) DC 38
+Power (At-Will): Study the tome for 30 minutes. Gain a +3 bonus to Knowledge skills
+History and Ninja Lore and to Genjutsu, Ninjutsu and Taijutsu checks to identify
+techniques, and a +2 insight bonus to Learn checks for 8 hours, once per day.
+This does not enable you to learn or develop a technique you would not otherwise be able
+to learn or develop.
+Level 15: As above, but a +5 bonus to skill checks and a +3 bonus to Learn checks.
+
+Underhanded Gloves [Armor, Sealed Item]
+This pair of gloves holds more than it appears.
+Sealed Item (gloves)
+Superior (Lv 10) DC 27
+Power (At-Will, free action): Draw any object stored in the gloves into your hand.
+Power (At-Will, attack action): Store any single object of Large size or smaller in the
+gloves.
+Power (1/day, special): The wearer can consume or use any object stored in the seal as
+though he were holding it in his hand. The effect functions as normal and the activation
+requires the same type of action as the stored item.
+
+Unity Collar [Sealed Item]
+This studded leather collar further deepens the bond between an animal companion and
+its master.
+Sealed Item (necklace)
+Superior (Lv 9) DC 26
+Property: The wearer always knows the direction of a partner wearing a bonded unity
+collar. Furthermore, the wearer is automatically aware of the condition of his partner as
+per Iryou Ninjutsu: Iji - Shinryou Jutsu. This ability has a range of 10 miles.
+Property: When flanking with a partner wearing a bonded unity collar, the wearer gains
+a +3 bonus to attack rolls rather than the normal +2 and gains the benefits of the Pincer
+Attack tactic.
+Special: When this item is crafted, it creates two bonded necklace that can be worn by
+any character with the Moujuu Aishou template and his animal companion. A creature
+without this bond gains no benefit from this item.
+
+Banishing Urn [Sealed Item]
+This large sake urn has long since been empty and since been covered in sealing arrays.
+Sealed Item
+Superior (Lv 8) DC 25 Greater (Lv 14) DC 37
+Superior (Lv 11) DC 28 Greater (Lv 16) DC 39
+Power (1/day, attack action): Use the power of the urn. A single summoned creature
+within 50 feet must make a Will save (DC 19) or be banished.
+Level 11:As above, but affects 2 summoned creatures.
+Level 14:As above, but has a Will save (DC 22).
+Level 16: As above, but targets 4 summoned creatures.
+
+Legendary Weapon [Sealed Item, Weapon]
+Sometimes, a summon creature with the Signature Item feat keyed to any weapon has a
+corresponding artifact that can be gifted to a summoner or found.
+Sealed Item (any weapon)
+Superior (Lv 10) +1 DC 27 Greater (Lv 12) +2 DC 35
+Greater (Lv 14) +3 DC 37 Greater (Lv 16) +3 DC 39
+Enhancement: Attack and damage rolls
+Property: This item is keyed to a specific Elite or Paragon summon with the Signature
+Item (any weapon of the same type) feat.
+The weapon is incorporated in the summon creature's body and will be left in the square
+previously occupied by the creature when it unsummons.
+In the hand of the summon creature, this weapon counts as a +2 weapon.
+Level 12:As above, but it counts as a +3 weapon.
+Level 14: As above, but it counts as +3 weapon with one of the following minor weapon
+seals: ashen, cold burst, earth shock, flame burst, hurricane force, shocking burst or tidal
+force.
+Level 16: As above, but it counts as +3 weapon with one of the following superior
+weapon seals: ashen, chilling, cold burst, earth shock, flame burst, hurricane force,
+pulsing, quaking, shocking burst, squalling, surging, tidal force or widening.
+Property: You can use this weapon in place of the normal material component to
+summon the creature this object is keyed to, even if you do not know how, but you do not
+automatically learn how to summon the creature as you would if you had summoned it
+randomly or learned the technique variant.
+
+Mysterious Figurine [Sealed Item]
+This figurine depicts a prowling animal.
+Sealed Item
+Minor (Lv 4) DC 15 Superior (Lv 8) DC 25
+Greater (Lv 12) DC 35 Greater (Lv 16) DC 39
+Power (1/week, attack action): The figurine transforms into a creature that matches a
+summoned creature up to protector in rank with up to 2 summon levels.
+The transformation lasts for up to 4 hours, and when the duration expires or the creature
+is commanded to return to statuette form by the creature who had summoned it, the
+creature reverts back into a figurine in the square it previously occupied.
+If the figurine is broken, it loses any ability to transform.
+Level 8: As above, but up to 4 summon levels.
+Level 12: As above, but can summon a guardian creature with up to 6 summon levels,
+and is usable twice per week.
+Level 16: As above, but can summon a noble creature with up to 8 summon levels, and is
+usable twice per week.
+Special: The creature the figurine transforms into can be from any blood pact and is
+determined at the creation of the item. It cannot be an elite or paragon creature. This item
+cannot be improved or repaired—a new one must be created from scratch.
+
+Ring of Conjuration [Sealed Item]
+This gold ring is engraved with a small archaic symbol.
+Sealed Item
+Superior (Lv 8) DC 25
+Property: When a creature summoned has a chance to be an elite or a paragon, a roll of
+75 or higher on a d% will result in a paragon.
+Power (3/day): Use when summoning a creature other than an elite or paragon. The
+chance to summon a special creature is doubled.
+
+Scroll of Might [Sealed Item]
+This small scroll has the power to empower a summoned creature.
+Sealed Item (totem)
+Superior (Lv 11) DC 23
+Power (1 charge, free action): Use this scroll when summoning a creature. The
+summoned creature is empowered as though you had used the Empower Summoning.
+The scroll reverts to a blank scroll after used.
+
+Scroll of Nature Manipulation [Sealed Item]
+This large, bulky scroll can grant a summoner the power to imbue his summoned
+creature with elemental chakra.
+Sealed Item (totem)
+Superior (Lv 9) DC 26 Greater (Lv 15) DC 38
+Power (1/day, free action): You use the power of the scroll during a summoning and
+imbue the summoned creature with one of the following subtype: earth, fire, ice,
+lightning, water or wind.
+The subtype conferred is selected at the item's creation and lasts for the duration of the
+summoning. When applied to a summon creature who already has one of the subtypes, it
+has no effect.
+Level 15: As above, but the creature also gains an elemental aura that deals 1 point of
+damage per summon level to any creature that begins its turn in a square adjacent to the
+summon creature, Reflex save halves (DC 10 + summon level). The aura's damage type is
+the same as the damage type its subtype gives it immunity to.
+The aura lasts for 1 minute after the summoning and cannot be suppressed.
+
+Summoning Anchor [Sealed Item]
+This large urn acts as an anchor for summoning techniques.
+Sealed Item
+Superior (Lv 8) DC 20
+Power (1 charge, attack action): 12 chakra. Set down the urn and activate its power.
+The urn will affect the next technique or ability used to summon a creature or ally, and
+cause the summoned creature to appear next to the anchor. The summoned creature will
+be stunned for 1 round.
+
+Summoning Scrambler [Sealed Item]
+This small length of prayer beads has the ability to disrupt the summoning rituals of
+others.
+Sealed Item
+Superior (Lv 11) DC 28
+Power (1/day, attack action): 6 chakra. As Fuinjutsu: Kaiyaku Fuuin, but affects any
+creature within 30 feet and only prevents the target from summoning creatures from a
+blood pact. Lasts for 1 hour (Will DC 21 negates).
+
+Summoner's Totem [Sealed Item]
+This totem is a small object that represents the spirit of a specific blood pact.
+Sealed Item (totem)
+Minor (Lv 6) DC 17
+Property: This item functions like a greater summoning scroll, but using this object does
+not increase the time to perform a technique or become inert after use.
+Special: This sealed item must be crafted for a specific blood pact, and is not
+interchangeable.
+
+Tribal Totem: Ancestral Spirit [Sealed Item]
+This small totem is attuned to a blood pact.
+Sealed Item (totem)
+Superior (Lv 9) DC 26
+Property: This item functions like a greater summoning scroll for a single blood pact,
+and does not become useless after use.
+Power (3/day, free action): Use when summoning a creature from the blood pact. The
+summoned creature gains banish resistance +5.
+Special: This sealed item must be crafted for a specific blood pact, and is not
+interchangeable.
+
+Tribal Totem: Manifest Avatar [Sealed Item]
+This small totem is attuned to a blood pact.
+Sealed Item (totem)
+Superior (Lv 9) DC 26
+Property: This item functions like a greater summoning scroll for a single blood pact,
+and does not become useless after use.
+Power (1/day, free action): Use when summoning a creature from the blood pact with at
+least 5 summon levels. The creature is imbued with its ancestral avatar spirit. The
+summon creature and all allies within 40 feet of the summoning gain a +1 morale bonus
+to attack and weapon damage rolls, saves and skill checks, while all enemies take a -1
+penalty on those rolls. Lasts 3 rounds.
+Special: This sealed item must be crafted for a specific blood pact, and is not
+interchangeable.
+
+Urn of Negation [Sealed Item]
+This large, empty urn has the strange power to prevent summoning techniques.
+Sealed Item
+Superior (Lv 11) DC 28 Greater (Lv 16) DC 39
+Power (1/day, full-round action): Set down the urn and activate its power. The urn
+prevents any Spacetime Ninjutsu technique with the Summoning descriptor from being
+completed within 50 feet. The chakra cost of failed techniques is not spent.
+The power lasts for 5 minutes. The urn has Defense 5, hardness 8 and 60 hit points.
+Level 16: As above, within 100 feet and the urn has 120 hit points.
+
+Curtain Call [Armor, Sealed Item]
+This fine, engraved gold band is adorned with a single emerald.
+Sealed Item (ring)
+Superior (Lv 9) DC 26
+Power (1/day, attack action): Deanimate a single puppet controlled by you and gain half
+the puppet's chakra pool as temporary chakra for 1 hour (round down, minimum 1).
+
+Energetic Performance [Puppet Component, Sealed Item]
+Sealed Item (puppet component)
+Minor (Lv 6) +1 DC 17 Greater (Lv 12) +3 DC 35
+Superior (Lv 9) +2 DC 26
+Enhancement: Bonus chakra when the puppet is animated.
+Property: This component requires a head slot, costs two utility points and weighs 5
+pounds.
+
+Gloves of Spirited Performance [Armor, Sealed Item]
+These simple, nondescript black leather gloves are sometimes used by puppeteers with
+greater means.
+Sealed Item (glove)
+Superior (Lv 10) DC 27 Greater (Lv 18) DC 41
+Greater (Lv 13) DC 36
+Property: Any puppet you control gain a +1 enhancement bonus to attack and damage
+rolls with their natural attacks, and bypass chakra damage reduction.
+This bonus is carried over to any ironium or thorium weapon the puppet wields.
+Level 13: As above, but a +2 bonus.
+Level 21: As above, but a +3 bonus.
+
+Gloves of the Minstrel [Armor, Sealed Item]
+This pair of elegant white gloves enable the puppeteer to create chakra threads with
+greater ease.
+Sealed Item (glove)
+Minor (Lv 4) DC 15 Superior (Lv 8) DC 25
+Property: Reduces the chakra cost when creating chakra threads with Ninpou: Chakra
+no Ito by 1 (minimum 1).
+Level 8: As above, but reduces the cost by 2.
+Power (1/encounter, swift action): Level 8: Create chakra threads as though using
+Ninpou: Chakra no Ito at no chakra cost.
+
+Heckler's Helper [Puppet Component, Sealed Item]
+Sealed Item (puppet component)
+Superior (Lv 7) DC 24 Greater (Lv 12) DC 35
+Superior (Lv 11) DC 28 Greater (Lv 15) DC 38
+Property: As the Cannon component, except it can hold 8 items. This component can be
+reloaded fully as a full-round action. The heckler's helper can hold larger items, such as
+large shuriken, daikunai or fuuma shuriken.
+This component requires a head or limb slot, costs two weapon points and weighs 5
+pounds. It has a complexity of B-Class.
+Level 11: As above, but the component can hold 12 items.
+Level 12: As above, but the component can hold 16 items.
+Level 15: As above, but the component can hold 20 items.
+
+Intermission [Puppet Component, Sealed Item]
+Sealed Item (puppet component)
+Greater (Lv 14) DC 37
+Power (1/day, instant action): 4 chakra. Use when controlling a puppet. The puppet
+gains chakra immunity for 1 round. The puppet pays the chakra cost.
+The puppet becomes rigidly still and is unable to take any action, as though paralyzed. If
+it was falling, it begins to fall. It will be instantly deanimated when the power fades, as
+though the chakra threads had been severed.
+This puppet component requires a chest slot, costs 2 utility points and weighs 5 pounds. It
+can be installed with a DC 20 check, requiring 4 hours. It has a difficulty of B-Class.
+Creatures who can see chakra gain a +4 circumstance bonus to Spot checks against an
+animated puppet with this component.
+
+Punchline [Puppet Component, Sealed Item]
+Sealed Item (puppet component)
+Minor (Lv 6) DC 16 Greater (Lv 12) DC 33
+Superior (Lv 8) DC 22 Greater (Lv 14) DC 34
+Superior (Lv 10) DC 24
+Power (3 charges, free action): Use when performing a Ninjutsu technique of rank 2 or
+lower. The puppet is able to deliver the technique as though with the Lifelike Ninjutsu
+ability.
+This component can be applied to any puppet, and requires a head or chest slot. The
+component costs three utility points and weighs 3 pounds. The component has a difficulty
+of B-Class.
+Level 8: As above, but up to rank 6.
+Level 10: As above, but up to rank 8.
+Level 12: As above, but up to rank 10 and difficulty A-Class.
+Level 14: As above, but up to rank 12 and difficulty A-Class.
+
+Technical Difficulties [Sealed Item]
+This small paper tag has a complex seal written upon it.
+Sealed Item
+Greater (Lv 12) DC 30
+Power (1 charge, attack action): Applies a seal to a deanimated puppet for 1 day or
+until discharged. The seal is nearly invisible (Spot check DC 30, or DC 20 with See
+Chakra or See Through Chakra).
+This seal is discharged when the puppet is deanimated. The puppet is automatically
+reduced to 0 chakra and disabled, and cannot be animated again for 1d4 rounds. The seal
+does not take effect until the puppet is animated, and will not stop a puppet that was
+already animate.
+Special: Uses one seal slot on the puppet while active.
+
+Fusion Core [Puppet Component, Sealed Item]
+Sealed Item (puppet component)
+Greater (Lv 12)	DC 35		Epic (Lv 24)	DC 53
+Property: This component prepares the puppet for the Some Assembly Required technique. This component costs 5 utility points, requires a Torso slot and has a difficulty of A-class. It weighs 25 pounds. 
+When part of a combination, the assembled puppet treats this component as using only 3 utility points instead of 5.
+Level 24: As above, but the component costs only 4 utility points, or 2 when part of a combination.
+
+Compass of the Wayfarer [Sealed Item]
+This simple compass always points in the same direction—and it isn't magnetic north.
+Sealed Item (compass)
+Minor (Lv 6)
+Property: This compass always points in the direction of the place it was attuned to, and grants a +5 equipment bonus to checks made to find the way or plot a trip to that destination.
+Special: This compass must be attuned to a specific location before it can be used, a ritual performed by the crafter that takes 5 minutes.
+
+Nekomata Ears [Sealed Item]
+These catgirl ears twitch with sounds as normal cat ears would.
+Sealed Item (head)
+Superior (Lv 11)	+1 DC 28	Greater (Lv 16)	+2 DC 39
+Enhancement: Listen checks (circumstance)
+Power (1/day, swift action): Gain blindsense 10 feet for 1 round.
+Level 16: As above, but 2/day and blindsense 20 feet.
+Set: This item is part of a set of five: Catgirl's Gear.
+
+Nekomata Boots [Sealed Item]
+These furry catspaw boots would not be amiss in a cosplayer's closet.
+Sealed Item (boots)
+Superior (Lv 9)	+1 DC 26	Greater (Lv 14)	+2 DC 37
+Enhancement: Balance checks (circumstance)
+Property: The wearer always lands on his feet and takes 8 less dice of damage from a fall.
+Level 14: As above, but 16 dice of damage.
+Set: This item is part of a set of five: Catgirl's Gear.
+
+Nekomata's Collar [Sealed Item]
+This studded collar is sized to fit a human throat.
+Sealed Item (necklace)
+Superior (Lv 8)	+2 DC 26	Greater (Lv 12)	+4 DC 37
+Enhancement: Saves against rage and frenzy effects (morale)
+Set: This item is part of a set of five: Catgirl's Gear.
+
+Nekomata Dress [Sealed Item]
+This revealing garment costists of furs worn close to the skin and allows the user to blend in some environments.
+Sealed Item (armor)
+Superior (Lv 8)	+1 DC 26	Greater (Lv 12)	+2 DC 37
+Enhancement: Hide and Move Silently checks (competence) and saves against hot or cold weather (resistance)
+Property: Gain a +4 circumstance bonus to Hide checks while prowling in tall grass or overgrowth.
+Set: This item is part of a set of five: Catgirl's Gear.
+
+Nekomata Claws [Sealed Item]
+These catspaw gauntlets end in deadly claws.
+Sealed Item (ironium chakra gauntlets)
+Minor (Lv 6)		+1 DC 17	Greater (Lv 16)	+3 DC 39
+Superior (Lv 11)	+2 DC 28
+Enhancement: Attack and damage rolls
+Property: Wielder's unarmed attacks can deal percing, slashing or bludgeoning damage (wielder's choice), but the wielder takes a –4 penalty to held weapon attack rolls and skill checks involving manual dexterity.
+Set: This item is part of a set of five: Catgirl's Gear.
